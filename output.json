@@ -1,0 +1,802 @@
+[
+   {
+      "machine_id": "PLA112",
+      "qty": 250
+   },
+   {
+      "machine_id": "PLA148",
+      "qty": 281
+   },
+   {
+      "machine_id": "PLA118",
+      "qty": 253
+   },
+   {
+      "machine_id": "PLA119",
+      "qty": 155
+   },
+   {
+      "machine_id": "PLA102",
+      "qty": 280
+   },
+   {
+      "machine_id": "PLA120",
+      "qty": 266
+   },
+   {
+      "machine_id": "PLA123",
+      "qty": 270
+   },
+   {
+      "machine_id": "PLA149",
+      "qty": 196
+   },
+   {
+      "machine_id": "PLA123",
+      "qty": 138
+   },
+   {
+      "machine_id": "PLA115",
+      "qty": 273
+   },
+   {
+      "machine_id": "PLA120",
+      "qty": 206
+   },
+   {
+      "machine_id": "PLA108",
+      "qty": 146
+   },
+   {
+      "machine_id": "PLA110",
+      "qty": 107
+   },
+   {
+      "machine_id": "PLA106",
+      "qty": 210
+   },
+   {
+      "machine_id": "PLA121",
+      "qty": 59
+   },
+   {
+      "machine_id": "PLA109",
+      "qty": 94
+   },
+   {
+      "machine_id": "PLA101",
+      "qty": 182
+   },
+   {
+      "machine_id": "PLA140",
+      "qty": 204
+   },
+   {
+      "machine_id": "PLA119",
+      "qty": 269
+   },
+   {
+      "machine_id": "PLA122",
+      "qty": 57
+   },
+   {
+      "machine_id": "PLA139",
+      "qty": 298
+   },
+   {
+      "machine_id": "PLA119",
+      "qty": 82
+   },
+   {
+      "machine_id": "PLA125",
+      "qty": 221
+   },
+   {
+      "machine_id": "PLA149",
+      "qty": 112
+   },
+   {
+      "machine_id": "PLA140",
+      "qty": 126
+   },
+   {
+      "machine_id": "PLA124",
+      "qty": 284
+   },
+   {
+      "machine_id": "PLA136",
+      "qty": 157
+   },
+   {
+      "machine_id": "PLA104",
+      "qty": 59
+   },
+   {
+      "machine_id": "PLA119",
+      "qty": 260
+   },
+   {
+      "machine_id": "PLA129",
+      "qty": 218
+   },
+   {
+      "machine_id": "PLA143",
+      "qty": 56
+   },
+   {
+      "machine_id": "PLA137",
+      "qty": 149
+   },
+   {
+      "machine_id": "PLA113",
+      "qty": 97
+   },
+   {
+      "machine_id": "PLA118",
+      "qty": 159
+   },
+   {
+      "machine_id": "PLA114",
+      "qty": 71
+   },
+   {
+      "machine_id": "PLA135",
+      "qty": 282
+   },
+   {
+      "machine_id": "PLA139",
+      "qty": 194
+   },
+   {
+      "machine_id": "PLA123",
+      "qty": 130
+   },
+   {
+      "machine_id": "PLA105",
+      "qty": 269
+   },
+   {
+      "machine_id": "PLA116",
+      "qty": 297
+   },
+   {
+      "machine_id": "PLA126",
+      "qty": 171
+   },
+   {
+      "machine_id": "PLA111",
+      "qty": 141
+   },
+   {
+      "machine_id": "PLA129",
+      "qty": 258
+   },
+   {
+      "machine_id": "PLA105",
+      "qty": 89
+   },
+   {
+      "machine_id": "PLA123",
+      "qty": 200
+   },
+   {
+      "machine_id": "PLA109",
+      "qty": 168
+   },
+   {
+      "machine_id": "PLA108",
+      "qty": 296
+   },
+   {
+      "machine_id": "PLA109",
+      "qty": 291
+   },
+   {
+      "machine_id": "PLA132",
+      "qty": 223
+   },
+   {
+      "machine_id": "PLA116",
+      "qty": 226
+   },
+   {
+      "machine_id": "PLA102",
+      "qty": 234
+   },
+   {
+      "machine_id": "PLA121",
+      "qty": 116
+   },
+   {
+      "machine_id": "PLA111",
+      "qty": 88
+   },
+   {
+      "machine_id": "PLA116",
+      "qty": 150
+   },
+   {
+      "machine_id": "PLA106",
+      "qty": 249
+   },
+   {
+      "machine_id": "PLA109",
+      "qty": 267
+   },
+   {
+      "machine_id": "PLA111",
+      "qty": 149
+   },
+   {
+      "machine_id": "PLA123",
+      "qty": 291
+   },
+   {
+      "machine_id": "PLA147",
+      "qty": 261
+   },
+   {
+      "machine_id": "PLA111",
+      "qty": 198
+   },
+   {
+      "machine_id": "PLA126",
+      "qty": 105
+   },
+   {
+      "machine_id": "PLA123",
+      "qty": 86
+   },
+   {
+      "machine_id": "PLA121",
+      "qty": 290
+   },
+   {
+      "machine_id": "PLA139",
+      "qty": 72
+   },
+   {
+      "machine_id": "PLA128",
+      "qty": 104
+   },
+   {
+      "machine_id": "PLA118",
+      "qty": 250
+   },
+   {
+      "machine_id": "PLA138",
+      "qty": 145
+   },
+   {
+      "machine_id": "PLA106",
+      "qty": 168
+   },
+   {
+      "machine_id": "PLA139",
+      "qty": 270
+   },
+   {
+      "machine_id": "PLA123",
+      "qty": 164
+   },
+   {
+      "machine_id": "PLA124",
+      "qty": 58
+   },
+   {
+      "machine_id": "PLA136",
+      "qty": 164
+   },
+   {
+      "machine_id": "PLA115",
+      "qty": 164
+   },
+   {
+      "machine_id": "PLA122",
+      "qty": 167
+   },
+   {
+      "machine_id": "PLA103",
+      "qty": 298
+   },
+   {
+      "machine_id": "PLA125",
+      "qty": 125
+   },
+   {
+      "machine_id": "PLA122",
+      "qty": 123
+   },
+   {
+      "machine_id": "PLA141",
+      "qty": 105
+   },
+   {
+      "machine_id": "PLA138",
+      "qty": 286
+   },
+   {
+      "machine_id": "PLA104",
+      "qty": 260
+   },
+   {
+      "machine_id": "PLA117",
+      "qty": 230
+   },
+   {
+      "machine_id": "PLA143",
+      "qty": 253
+   },
+   {
+      "machine_id": "PLA125",
+      "qty": 299
+   },
+   {
+      "machine_id": "PLA113",
+      "qty": 279
+   },
+   {
+      "machine_id": "PLA105",
+      "qty": 282
+   },
+   {
+      "machine_id": "PLA116",
+      "qty": 252
+   },
+   {
+      "machine_id": "PLA106",
+      "qty": 214
+   },
+   {
+      "machine_id": "PLA134",
+      "qty": 248
+   },
+   {
+      "machine_id": "PLA133",
+      "qty": 76
+   },
+   {
+      "machine_id": "PLA104",
+      "qty": 262
+   },
+   {
+      "machine_id": "PLA149",
+      "qty": 238
+   },
+   {
+      "machine_id": "PLA123",
+      "qty": 189
+   },
+   {
+      "machine_id": "PLA149",
+      "qty": 111
+   },
+   {
+      "machine_id": "PLA127",
+      "qty": 77
+   },
+   {
+      "machine_id": "PLA135",
+      "qty": 164
+   },
+   {
+      "machine_id": "PLA117",
+      "qty": 283
+   },
+   {
+      "machine_id": "PLA141",
+      "qty": 77
+   },
+   {
+      "machine_id": "PLA127",
+      "qty": 244
+   },
+   {
+      "machine_id": "PLA108",
+      "qty": 266
+   },
+   {
+      "machine_id": "PLA126",
+      "qty": 143
+   },
+   {
+      "machine_id": "PLA111",
+      "qty": 209
+   },
+   {
+      "machine_id": "PLA108",
+      "qty": 137
+   },
+   {
+      "machine_id": "PLA131",
+      "qty": 253
+   },
+   {
+      "machine_id": "PLA102",
+      "qty": 132
+   },
+   {
+      "machine_id": "PLA132",
+      "qty": 292
+   },
+   {
+      "machine_id": "PLA137",
+      "qty": 68
+   },
+   {
+      "machine_id": "PLA113",
+      "qty": 103
+   },
+   {
+      "machine_id": "PLA127",
+      "qty": 216
+   },
+   {
+      "machine_id": "PLA120",
+      "qty": 90
+   },
+   {
+      "machine_id": "PLA143",
+      "qty": 53
+   },
+   {
+      "machine_id": "PLA103",
+      "qty": 128
+   },
+   {
+      "machine_id": "PLA126",
+      "qty": 295
+   },
+   {
+      "machine_id": "PLA126",
+      "qty": 268
+   },
+   {
+      "machine_id": "PLA123",
+      "qty": 188
+   },
+   {
+      "machine_id": "PLA127",
+      "qty": 193
+   },
+   {
+      "machine_id": "PLA141",
+      "qty": 128
+   },
+   {
+      "machine_id": "PLA131",
+      "qty": 105
+   },
+   {
+      "machine_id": "PLA113",
+      "qty": 72
+   },
+   {
+      "machine_id": "PLA106",
+      "qty": 96
+   },
+   {
+      "machine_id": "PLA113",
+      "qty": 254
+   },
+   {
+      "machine_id": "PLA119",
+      "qty": 70
+   },
+   {
+      "machine_id": "PLA137",
+      "qty": 279
+   },
+   {
+      "machine_id": "PLA111",
+      "qty": 82
+   },
+   {
+      "machine_id": "PLA114",
+      "qty": 234
+   },
+   {
+      "machine_id": "PLA128",
+      "qty": 264
+   },
+   {
+      "machine_id": "PLA137",
+      "qty": 202
+   },
+   {
+      "machine_id": "PLA120",
+      "qty": 287
+   },
+   {
+      "machine_id": "PLA147",
+      "qty": 50
+   },
+   {
+      "machine_id": "PLA146",
+      "qty": 293
+   },
+   {
+      "machine_id": "PLA115",
+      "qty": 230
+   },
+   {
+      "machine_id": "PLA137",
+      "qty": 195
+   },
+   {
+      "machine_id": "PLA117",
+      "qty": 102
+   },
+   {
+      "machine_id": "PLA103",
+      "qty": 53
+   },
+   {
+      "machine_id": "PLA119",
+      "qty": 202
+   },
+   {
+      "machine_id": "PLA112",
+      "qty": 182
+   },
+   {
+      "machine_id": "PLA128",
+      "qty": 56
+   },
+   {
+      "machine_id": "PLA124",
+      "qty": 189
+   },
+   {
+      "machine_id": "PLA147",
+      "qty": 116
+   },
+   {
+      "machine_id": "PLA117",
+      "qty": 149
+   },
+   {
+      "machine_id": "PLA140",
+      "qty": 219
+   },
+   {
+      "machine_id": "PLA101",
+      "qty": 193
+   },
+   {
+      "machine_id": "PLA137",
+      "qty": 152
+   },
+   {
+      "machine_id": "PLA115",
+      "qty": 266
+   },
+   {
+      "machine_id": "PLA146",
+      "qty": 75
+   },
+   {
+      "machine_id": "PLA116",
+      "qty": 132
+   },
+   {
+      "machine_id": "PLA150",
+      "qty": 279
+   },
+   {
+      "machine_id": "PLA130",
+      "qty": 142
+   },
+   {
+      "machine_id": "PLA120",
+      "qty": 62
+   },
+   {
+      "machine_id": "PLA126",
+      "qty": 239
+   },
+   {
+      "machine_id": "PLA110",
+      "qty": 111
+   },
+   {
+      "machine_id": "PLA140",
+      "qty": 208
+   },
+   {
+      "machine_id": "PLA106",
+      "qty": 277
+   },
+   {
+      "machine_id": "PLA144",
+      "qty": 59
+   },
+   {
+      "machine_id": "PLA105",
+      "qty": 181
+   },
+   {
+      "machine_id": "PLA107",
+      "qty": 157
+   },
+   {
+      "machine_id": "PLA109",
+      "qty": 158
+   },
+   {
+      "machine_id": "PLA123",
+      "qty": 150
+   },
+   {
+      "machine_id": "PLA116",
+      "qty": 224
+   },
+   {
+      "machine_id": "PLA133",
+      "qty": 262
+   },
+   {
+      "machine_id": "PLA140",
+      "qty": 115
+   },
+   {
+      "machine_id": "PLA117",
+      "qty": 179
+   },
+   {
+      "machine_id": "PLA119",
+      "qty": 188
+   },
+   {
+      "machine_id": "PLA148",
+      "qty": 242
+   },
+   {
+      "machine_id": "PLA147",
+      "qty": 259
+   },
+   {
+      "machine_id": "PLA111",
+      "qty": 247
+   },
+   {
+      "machine_id": "PLA144",
+      "qty": 263
+   },
+   {
+      "machine_id": "PLA102",
+      "qty": 76
+   },
+   {
+      "machine_id": "PLA117",
+      "qty": 296
+   },
+   {
+      "machine_id": "PLA130",
+      "qty": 115
+   },
+   {
+      "machine_id": "PLA126",
+      "qty": 169
+   },
+   {
+      "machine_id": "PLA108",
+      "qty": 146
+   },
+   {
+      "machine_id": "PLA123",
+      "qty": 72
+   },
+   {
+      "machine_id": "PLA104",
+      "qty": 245
+   },
+   {
+      "machine_id": "PLA140",
+      "qty": 280
+   },
+   {
+      "machine_id": "PLA103",
+      "qty": 283
+   },
+   {
+      "machine_id": "PLA140",
+      "qty": 281
+   },
+   {
+      "machine_id": "PLA143",
+      "qty": 103
+   },
+   {
+      "machine_id": "PLA140",
+      "qty": 223
+   },
+   {
+      "machine_id": "PLA148",
+      "qty": 224
+   },
+   {
+      "machine_id": "PLA125",
+      "qty": 278
+   },
+   {
+      "machine_id": "PLA106",
+      "qty": 126
+   },
+   {
+      "machine_id": "PLA114",
+      "qty": 213
+   },
+   {
+      "machine_id": "PLA113",
+      "qty": 214
+   },
+   {
+      "machine_id": "PLA130",
+      "qty": 180
+   },
+   {
+      "machine_id": "PLA141",
+      "qty": 60
+   },
+   {
+      "machine_id": "PLA133",
+      "qty": 165
+   },
+   {
+      "machine_id": "PLA126",
+      "qty": 130
+   },
+   {
+      "machine_id": "PLA109",
+      "qty": 181
+   },
+   {
+      "machine_id": "PLA125",
+      "qty": 129
+   },
+   {
+      "machine_id": "PLA126",
+      "qty": 154
+   },
+   {
+      "machine_id": "PLA139",
+      "qty": 290
+   },
+   {
+      "machine_id": "PLA102",
+      "qty": 256
+   },
+   {
+      "machine_id": "PLA105",
+      "qty": 207
+   },
+   {
+      "machine_id": "PLA105",
+      "qty": 296
+   },
+   {
+      "machine_id": "PLA114",
+      "qty": 202
+   },
+   {
+      "machine_id": "PLA112",
+      "qty": 127
+   },
+   {
+      "machine_id": "PLA116",
+      "qty": 56
+   },
+   {
+      "machine_id": "PLA109",
+      "qty": 231
+   },
+   {
+      "machine_id": "PLA115",
+      "qty": 233
+   },
+   {
+      "machine_id": "PLA103",
+      "qty": 127
+   }
+]
