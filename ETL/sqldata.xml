@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<data>
+  <sql name="WipMerge">
+    MERGE INTO "APS".F_WIP A
+    USING  (
+        SELECT
+            'TEST' ORDERNO,
+            'TEST' LOT,
+            'N' IS_HOLD,
+            TO_DATE('2021-07-22', 'YYYY-MM-DD HH24:MI:SS') WDATE,
+            'TEST' PRODUCT_REVISION,
+            'TEST' OP_NO,
+            'TEST' OP_NAME,
+            2 "LAYER",
+            240 QTY,
+            120 PCSQTY,
+            'TEST' PRODUCT_TYPE,
+            TO_DATE('2021-07-22', 'YYYY-MM-DD HH24:MI:SS')  ARRIVAL_TIME,
+            220 HODINGTIME,
+            'N' IS_ROCKET,
+            'TEST' LOTTYPE,
+            'TEST' PRODUCT_ID
+        FROM
+            DUAL
+    ) M ON(
+      A.LOT = M.LOT
+    )
+    WHEN MATCHED THEN 
+        UPDATE SET 
+        A.ORDERNO=M.ORDERNO,
+        A.IS_HOLD =M.IS_HOLD ,
+        A.WDATE =M.WDATE ,
+        A.PRODUCT_REVISION =M.PRODUCT_REVISION ,
+        A.OP_NO =M.OP_NO ,
+        A.OP_NAME=M.OP_NAME,
+        A.LAYER=M.LAYER,
+        A.QTY=M.QTY,
+        A.PCSQTY=M.PCSQTY,
+        A.PRODUCT_TYPE=M.PRODUCT_TYPE,
+        A.ARRIVAL_TIME=M.ARRIVAL_TIME,
+        A.HODINGTIME=M.HODINGTIME,
+        A.IS_ROCKET=M.IS_ROCKET,
+        A.LOTTYPE=M.LOTTYPE,
+        A.PRODUCT_ID=M.PRODUCT_ID
+    WHEN NOT MATCHED THEN 
+        INSERT (
+        ORDERNO,
+        LOT, 
+        IS_HOLD, 
+        WDATE, 
+        PRODUCT_REVISION, 
+        OP_NO, 
+        OP_NAME,
+        "LAYER",
+        QTY,
+        PCSQTY,
+        PRODUCT_TYPE,
+        ARRIVAL_TIME,
+        HODINGTIME,
+        IS_ROCKET,
+        LOTTYPE,
+        PRODUCT_ID
+        ) VALUES (
+        M.ORDERNO,
+        M.LOT ,
+        M.IS_HOLD ,
+        M.WDATE ,
+        M.PRODUCT_REVISION ,
+        M.OP_NO ,
+        M.OP_NAME,
+        M.LAYER,
+        M.QTY,
+        M.PCSQTY,
+        M.PRODUCT_TYPE,
+        M.ARRIVAL_TIME,
+        M.HODINGTIME,
+        M.IS_ROCKET,
+        M.LOTTYPE,
+        M.PRODUCT_ID
+    );
+  </sql>
+</data>

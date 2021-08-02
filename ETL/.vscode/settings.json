@@ -1,0 +1,6 @@
+{
+  "editor.wordWrap": "on",
+  "python.pythonPath": "C:\\Users\\DALab\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+}

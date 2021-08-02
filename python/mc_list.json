@@ -1,0 +1,2210 @@
+[
+    {
+        "GROUP_ID": "A20-mcg2",
+        "GROUP_NAME": "A20-機群2",
+        "MACHINE_ID": "A20-mcg2-mc1",
+        "MACHINE_NAME": "A20-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A20-mcg2",
+        "GROUP_NAME": "A20-機群2",
+        "MACHINE_ID": "A20-mcg2-mc2",
+        "MACHINE_NAME": "A20-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A82-mcg2",
+        "GROUP_NAME": "A82-機群2",
+        "MACHINE_ID": "A82-mcg2-mc1",
+        "MACHINE_NAME": "A82-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A82-mcg2",
+        "GROUP_NAME": "A82-機群2",
+        "MACHINE_ID": "A82-mcg2-mc2",
+        "MACHINE_NAME": "A82-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A15-mcg1",
+        "GROUP_NAME": "A15-機群1",
+        "MACHINE_ID": "A15-mcg1-mc1",
+        "MACHINE_NAME": "A15-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A15-mcg1",
+        "GROUP_NAME": "A15-機群1",
+        "MACHINE_ID": "A15-mcg1-mc2",
+        "MACHINE_NAME": "A15-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A31-mcg2",
+        "GROUP_NAME": "A31-機群2",
+        "MACHINE_ID": "A31-mcg2-mc1",
+        "MACHINE_NAME": "A31-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A31-mcg2",
+        "GROUP_NAME": "A31-機群2",
+        "MACHINE_ID": "A31-mcg2-mc2",
+        "MACHINE_NAME": "A31-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A31-mcg2",
+        "GROUP_NAME": "A31-機群2",
+        "MACHINE_ID": "A31-mcg2-mc3",
+        "MACHINE_NAME": "A31-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A31-mcg2",
+        "GROUP_NAME": "A31-機群2",
+        "MACHINE_ID": "A31-mcg2-mc4",
+        "MACHINE_NAME": "A31-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A13-mcg1",
+        "GROUP_NAME": "A13-機群1",
+        "MACHINE_ID": "A13-mcg1-mc1",
+        "MACHINE_NAME": "A13-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A13-mcg1",
+        "GROUP_NAME": "A13-機群1",
+        "MACHINE_ID": "A13-mcg1-mc2",
+        "MACHINE_NAME": "A13-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A27-mcg1",
+        "GROUP_NAME": "A27-機群1",
+        "MACHINE_ID": "A27-mcg1-mc1",
+        "MACHINE_NAME": "A27-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A27-mcg1",
+        "GROUP_NAME": "A27-機群1",
+        "MACHINE_ID": "A27-mcg1-mc2",
+        "MACHINE_NAME": "A27-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A27-mcg1",
+        "GROUP_NAME": "A27-機群1",
+        "MACHINE_ID": "A27-mcg1-mc3",
+        "MACHINE_NAME": "A27-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A27-mcg1",
+        "GROUP_NAME": "A27-機群1",
+        "MACHINE_ID": "A27-mcg1-mc4",
+        "MACHINE_NAME": "A27-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A17-mcg1",
+        "GROUP_NAME": "A17-機群1",
+        "MACHINE_ID": "A17-mcg1-mc1",
+        "MACHINE_NAME": "A17-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A17-mcg1",
+        "GROUP_NAME": "A17-機群1",
+        "MACHINE_ID": "A17-mcg1-mc2",
+        "MACHINE_NAME": "A17-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A88-mcg2",
+        "GROUP_NAME": "A88-機群2",
+        "MACHINE_ID": "A88-mcg2-mc1",
+        "MACHINE_NAME": "A88-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A88-mcg2",
+        "GROUP_NAME": "A88-機群2",
+        "MACHINE_ID": "A88-mcg2-mc2",
+        "MACHINE_NAME": "A88-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A88-mcg2",
+        "GROUP_NAME": "A88-機群2",
+        "MACHINE_ID": "A88-mcg2-mc3",
+        "MACHINE_NAME": "A88-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A88-mcg2",
+        "GROUP_NAME": "A88-機群2",
+        "MACHINE_ID": "A88-mcg2-mc4",
+        "MACHINE_NAME": "A88-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A98-mcg1",
+        "GROUP_NAME": "A98-機群1",
+        "MACHINE_ID": "A98-mcg1-mc1",
+        "MACHINE_NAME": "A98-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A98-mcg1",
+        "GROUP_NAME": "A98-機群1",
+        "MACHINE_ID": "A98-mcg1-mc2",
+        "MACHINE_NAME": "A98-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A45-mcg2",
+        "GROUP_NAME": "A45-機群2",
+        "MACHINE_ID": "A45-mcg2-mc1",
+        "MACHINE_NAME": "A45-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A45-mcg2",
+        "GROUP_NAME": "A45-機群2",
+        "MACHINE_ID": "A45-mcg2-mc2",
+        "MACHINE_NAME": "A45-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A23-mcg2",
+        "GROUP_NAME": "A23-機群2",
+        "MACHINE_ID": "A23-mcg2-mc1",
+        "MACHINE_NAME": "A23-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A23-mcg2",
+        "GROUP_NAME": "A23-機群2",
+        "MACHINE_ID": "A23-mcg2-mc2",
+        "MACHINE_NAME": "A23-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A23-mcg2",
+        "GROUP_NAME": "A23-機群2",
+        "MACHINE_ID": "A23-mcg2-mc3",
+        "MACHINE_NAME": "A23-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A23-mcg2",
+        "GROUP_NAME": "A23-機群2",
+        "MACHINE_ID": "A23-mcg2-mc4",
+        "MACHINE_NAME": "A23-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A3D-mcg1",
+        "GROUP_NAME": "A3D-機群1",
+        "MACHINE_ID": "A3D-mcg1-mc1",
+        "MACHINE_NAME": "A3D-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A3D-mcg1",
+        "GROUP_NAME": "A3D-機群1",
+        "MACHINE_ID": "A3D-mcg1-mc2",
+        "MACHINE_NAME": "A3D-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A96-mcg1",
+        "GROUP_NAME": "A96-機群1",
+        "MACHINE_ID": "A96-mcg1-mc1",
+        "MACHINE_NAME": "A96-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A96-mcg1",
+        "GROUP_NAME": "A96-機群1",
+        "MACHINE_ID": "A96-mcg1-mc2",
+        "MACHINE_NAME": "A96-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A31-mcg1",
+        "GROUP_NAME": "A31-機群1",
+        "MACHINE_ID": "A31-mcg1-mc1",
+        "MACHINE_NAME": "A31-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A31-mcg1",
+        "GROUP_NAME": "A31-機群1",
+        "MACHINE_ID": "A31-mcg1-mc2",
+        "MACHINE_NAME": "A31-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A31-mcg1",
+        "GROUP_NAME": "A31-機群1",
+        "MACHINE_ID": "A31-mcg1-mc3",
+        "MACHINE_NAME": "A31-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A31-mcg1",
+        "GROUP_NAME": "A31-機群1",
+        "MACHINE_ID": "A31-mcg1-mc4",
+        "MACHINE_NAME": "A31-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A26-mcg1",
+        "GROUP_NAME": "A26-機群1",
+        "MACHINE_ID": "A26-mcg1-mc1",
+        "MACHINE_NAME": "A26-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A26-mcg1",
+        "GROUP_NAME": "A26-機群1",
+        "MACHINE_ID": "A26-mcg1-mc2",
+        "MACHINE_NAME": "A26-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A62-mcg2",
+        "GROUP_NAME": "A62-機群2",
+        "MACHINE_ID": "A62-mcg2-mc1",
+        "MACHINE_NAME": "A62-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A62-mcg2",
+        "GROUP_NAME": "A62-機群2",
+        "MACHINE_ID": "A62-mcg2-mc2",
+        "MACHINE_NAME": "A62-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A02-mcg1",
+        "GROUP_NAME": "A02-機群1",
+        "MACHINE_ID": "A02-mcg1-mc1",
+        "MACHINE_NAME": "A02-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A02-mcg1",
+        "GROUP_NAME": "A02-機群1",
+        "MACHINE_ID": "A02-mcg1-mc2",
+        "MACHINE_NAME": "A02-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A02-mcg1",
+        "GROUP_NAME": "A02-機群1",
+        "MACHINE_ID": "A02-mcg1-mc3",
+        "MACHINE_NAME": "A02-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A02-mcg1",
+        "GROUP_NAME": "A02-機群1",
+        "MACHINE_ID": "A02-mcg1-mc4",
+        "MACHINE_NAME": "A02-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A58-mcg2",
+        "GROUP_NAME": "A58-機群2",
+        "MACHINE_ID": "A58-mcg2-mc1",
+        "MACHINE_NAME": "A58-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A58-mcg2",
+        "GROUP_NAME": "A58-機群2",
+        "MACHINE_ID": "A58-mcg2-mc2",
+        "MACHINE_NAME": "A58-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A27-mcg2",
+        "GROUP_NAME": "A27-機群2",
+        "MACHINE_ID": "A27-mcg2-mc1",
+        "MACHINE_NAME": "A27-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A27-mcg2",
+        "GROUP_NAME": "A27-機群2",
+        "MACHINE_ID": "A27-mcg2-mc2",
+        "MACHINE_NAME": "A27-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A27-mcg2",
+        "GROUP_NAME": "A27-機群2",
+        "MACHINE_ID": "A27-mcg2-mc3",
+        "MACHINE_NAME": "A27-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A27-mcg2",
+        "GROUP_NAME": "A27-機群2",
+        "MACHINE_ID": "A27-mcg2-mc4",
+        "MACHINE_NAME": "A27-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A94-mcg1",
+        "GROUP_NAME": "A94-機群1",
+        "MACHINE_ID": "A94-mcg1-mc1",
+        "MACHINE_NAME": "A94-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A94-mcg1",
+        "GROUP_NAME": "A94-機群1",
+        "MACHINE_ID": "A94-mcg1-mc2",
+        "MACHINE_NAME": "A94-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A24-mcg1",
+        "GROUP_NAME": "A24-機群1",
+        "MACHINE_ID": "A24-mcg1-mc1",
+        "MACHINE_NAME": "A24-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A24-mcg1",
+        "GROUP_NAME": "A24-機群1",
+        "MACHINE_ID": "A24-mcg1-mc2",
+        "MACHINE_NAME": "A24-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A36-mcg1",
+        "GROUP_NAME": "A36-機群1",
+        "MACHINE_ID": "A36-mcg1-mc1",
+        "MACHINE_NAME": "A36-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A36-mcg1",
+        "GROUP_NAME": "A36-機群1",
+        "MACHINE_ID": "A36-mcg1-mc2",
+        "MACHINE_NAME": "A36-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A36-mcg1",
+        "GROUP_NAME": "A36-機群1",
+        "MACHINE_ID": "A36-mcg1-mc3",
+        "MACHINE_NAME": "A36-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A36-mcg1",
+        "GROUP_NAME": "A36-機群1",
+        "MACHINE_ID": "A36-mcg1-mc4",
+        "MACHINE_NAME": "A36-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A11-mcg2",
+        "GROUP_NAME": "A11-機群2",
+        "MACHINE_ID": "A11-mcg2-mc1",
+        "MACHINE_NAME": "A11-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A11-mcg2",
+        "GROUP_NAME": "A11-機群2",
+        "MACHINE_ID": "A11-mcg2-mc2",
+        "MACHINE_NAME": "A11-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A2A-mcg2",
+        "GROUP_NAME": "A2A-機群2",
+        "MACHINE_ID": "A2A-mcg2-mc1",
+        "MACHINE_NAME": "A2A-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A2A-mcg2",
+        "GROUP_NAME": "A2A-機群2",
+        "MACHINE_ID": "A2A-mcg2-mc2",
+        "MACHINE_NAME": "A2A-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A2A-mcg2",
+        "GROUP_NAME": "A2A-機群2",
+        "MACHINE_ID": "A2A-mcg2-mc3",
+        "MACHINE_NAME": "A2A-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A2A-mcg2",
+        "GROUP_NAME": "A2A-機群2",
+        "MACHINE_ID": "A2A-mcg2-mc4",
+        "MACHINE_NAME": "A2A-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A59-mcg2",
+        "GROUP_NAME": "A59-機群2",
+        "MACHINE_ID": "A59-mcg2-mc1",
+        "MACHINE_NAME": "A59-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A59-mcg2",
+        "GROUP_NAME": "A59-機群2",
+        "MACHINE_ID": "A59-mcg2-mc2",
+        "MACHINE_NAME": "A59-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A59-mcg2",
+        "GROUP_NAME": "A59-機群2",
+        "MACHINE_ID": "A59-mcg2-mc3",
+        "MACHINE_NAME": "A59-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A59-mcg2",
+        "GROUP_NAME": "A59-機群2",
+        "MACHINE_ID": "A59-mcg2-mc4",
+        "MACHINE_NAME": "A59-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A77-mcg1",
+        "GROUP_NAME": "A77-機群1",
+        "MACHINE_ID": "A77-mcg1-mc1",
+        "MACHINE_NAME": "A77-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A77-mcg1",
+        "GROUP_NAME": "A77-機群1",
+        "MACHINE_ID": "A77-mcg1-mc2",
+        "MACHINE_NAME": "A77-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A84-mcg2",
+        "GROUP_NAME": "A84-機群2",
+        "MACHINE_ID": "A84-mcg2-mc1",
+        "MACHINE_NAME": "A84-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A84-mcg2",
+        "GROUP_NAME": "A84-機群2",
+        "MACHINE_ID": "A84-mcg2-mc2",
+        "MACHINE_NAME": "A84-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A84-mcg2",
+        "GROUP_NAME": "A84-機群2",
+        "MACHINE_ID": "A84-mcg2-mc3",
+        "MACHINE_NAME": "A84-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A84-mcg2",
+        "GROUP_NAME": "A84-機群2",
+        "MACHINE_ID": "A84-mcg2-mc4",
+        "MACHINE_NAME": "A84-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A3D-mcg2",
+        "GROUP_NAME": "A3D-機群2",
+        "MACHINE_ID": "A3D-mcg2-mc1",
+        "MACHINE_NAME": "A3D-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A3D-mcg2",
+        "GROUP_NAME": "A3D-機群2",
+        "MACHINE_ID": "A3D-mcg2-mc2",
+        "MACHINE_NAME": "A3D-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A85-mcg2",
+        "GROUP_NAME": "A85-機群2",
+        "MACHINE_ID": "A85-mcg2-mc1",
+        "MACHINE_NAME": "A85-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A85-mcg2",
+        "GROUP_NAME": "A85-機群2",
+        "MACHINE_ID": "A85-mcg2-mc2",
+        "MACHINE_NAME": "A85-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A85-mcg2",
+        "GROUP_NAME": "A85-機群2",
+        "MACHINE_ID": "A85-mcg2-mc3",
+        "MACHINE_NAME": "A85-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A85-mcg2",
+        "GROUP_NAME": "A85-機群2",
+        "MACHINE_ID": "A85-mcg2-mc4",
+        "MACHINE_NAME": "A85-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A00-mcg1",
+        "GROUP_NAME": "A00-機群1",
+        "MACHINE_ID": "A00-mcg1-mc1",
+        "MACHINE_NAME": "A00-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A00-mcg1",
+        "GROUP_NAME": "A00-機群1",
+        "MACHINE_ID": "A00-mcg1-mc2",
+        "MACHINE_NAME": "A00-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A00-mcg1",
+        "GROUP_NAME": "A00-機群1",
+        "MACHINE_ID": "A00-mcg1-mc3",
+        "MACHINE_NAME": "A00-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A00-mcg1",
+        "GROUP_NAME": "A00-機群1",
+        "MACHINE_ID": "A00-mcg1-mc4",
+        "MACHINE_NAME": "A00-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A10-mcg2",
+        "GROUP_NAME": "A10-機群2",
+        "MACHINE_ID": "A10-mcg2-mc1",
+        "MACHINE_NAME": "A10-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A10-mcg2",
+        "GROUP_NAME": "A10-機群2",
+        "MACHINE_ID": "A10-mcg2-mc2",
+        "MACHINE_NAME": "A10-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A85-mcg1",
+        "GROUP_NAME": "A85-機群1",
+        "MACHINE_ID": "A85-mcg1-mc1",
+        "MACHINE_NAME": "A85-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A85-mcg1",
+        "GROUP_NAME": "A85-機群1",
+        "MACHINE_ID": "A85-mcg1-mc2",
+        "MACHINE_NAME": "A85-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A85-mcg1",
+        "GROUP_NAME": "A85-機群1",
+        "MACHINE_ID": "A85-mcg1-mc3",
+        "MACHINE_NAME": "A85-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A85-mcg1",
+        "GROUP_NAME": "A85-機群1",
+        "MACHINE_ID": "A85-mcg1-mc4",
+        "MACHINE_NAME": "A85-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A24-mcg2",
+        "GROUP_NAME": "A24-機群2",
+        "MACHINE_ID": "A24-mcg2-mc1",
+        "MACHINE_NAME": "A24-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A24-mcg2",
+        "GROUP_NAME": "A24-機群2",
+        "MACHINE_ID": "A24-mcg2-mc2",
+        "MACHINE_NAME": "A24-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A21-mcg2",
+        "GROUP_NAME": "A21-機群2",
+        "MACHINE_ID": "A21-mcg2-mc1",
+        "MACHINE_NAME": "A21-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A21-mcg2",
+        "GROUP_NAME": "A21-機群2",
+        "MACHINE_ID": "A21-mcg2-mc2",
+        "MACHINE_NAME": "A21-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A05-mcg2",
+        "GROUP_NAME": "A05-機群2",
+        "MACHINE_ID": "A05-mcg2-mc1",
+        "MACHINE_NAME": "A05-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A05-mcg2",
+        "GROUP_NAME": "A05-機群2",
+        "MACHINE_ID": "A05-mcg2-mc2",
+        "MACHINE_NAME": "A05-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A05-mcg2",
+        "GROUP_NAME": "A05-機群2",
+        "MACHINE_ID": "A05-mcg2-mc3",
+        "MACHINE_NAME": "A05-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A05-mcg2",
+        "GROUP_NAME": "A05-機群2",
+        "MACHINE_ID": "A05-mcg2-mc4",
+        "MACHINE_NAME": "A05-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A47-mcg2",
+        "GROUP_NAME": "A47-機群2",
+        "MACHINE_ID": "A47-mcg2-mc1",
+        "MACHINE_NAME": "A47-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A47-mcg2",
+        "GROUP_NAME": "A47-機群2",
+        "MACHINE_ID": "A47-mcg2-mc2",
+        "MACHINE_NAME": "A47-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A45-mcg1",
+        "GROUP_NAME": "A45-機群1",
+        "MACHINE_ID": "A45-mcg1-mc1",
+        "MACHINE_NAME": "A45-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A45-mcg1",
+        "GROUP_NAME": "A45-機群1",
+        "MACHINE_ID": "A45-mcg1-mc2",
+        "MACHINE_NAME": "A45-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A23-mcg1",
+        "GROUP_NAME": "A23-機群1",
+        "MACHINE_ID": "A23-mcg1-mc1",
+        "MACHINE_NAME": "A23-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A23-mcg1",
+        "GROUP_NAME": "A23-機群1",
+        "MACHINE_ID": "A23-mcg1-mc2",
+        "MACHINE_NAME": "A23-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A23-mcg1",
+        "GROUP_NAME": "A23-機群1",
+        "MACHINE_ID": "A23-mcg1-mc3",
+        "MACHINE_NAME": "A23-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A23-mcg1",
+        "GROUP_NAME": "A23-機群1",
+        "MACHINE_ID": "A23-mcg1-mc4",
+        "MACHINE_NAME": "A23-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A62-mcg1",
+        "GROUP_NAME": "A62-機群1",
+        "MACHINE_ID": "A62-mcg1-mc1",
+        "MACHINE_NAME": "A62-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A62-mcg1",
+        "GROUP_NAME": "A62-機群1",
+        "MACHINE_ID": "A62-mcg1-mc2",
+        "MACHINE_NAME": "A62-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A87-mcg2",
+        "GROUP_NAME": "A87-機群2",
+        "MACHINE_ID": "A87-mcg2-mc1",
+        "MACHINE_NAME": "A87-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A87-mcg2",
+        "GROUP_NAME": "A87-機群2",
+        "MACHINE_ID": "A87-mcg2-mc2",
+        "MACHINE_NAME": "A87-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A87-mcg2",
+        "GROUP_NAME": "A87-機群2",
+        "MACHINE_ID": "A87-mcg2-mc3",
+        "MACHINE_NAME": "A87-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A87-mcg2",
+        "GROUP_NAME": "A87-機群2",
+        "MACHINE_ID": "A87-mcg2-mc4",
+        "MACHINE_NAME": "A87-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A80-mcg2",
+        "GROUP_NAME": "A80-機群2",
+        "MACHINE_ID": "A80-mcg2-mc1",
+        "MACHINE_NAME": "A80-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A80-mcg2",
+        "GROUP_NAME": "A80-機群2",
+        "MACHINE_ID": "A80-mcg2-mc2",
+        "MACHINE_NAME": "A80-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A80-mcg2",
+        "GROUP_NAME": "A80-機群2",
+        "MACHINE_ID": "A80-mcg2-mc3",
+        "MACHINE_NAME": "A80-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A80-mcg2",
+        "GROUP_NAME": "A80-機群2",
+        "MACHINE_ID": "A80-mcg2-mc4",
+        "MACHINE_NAME": "A80-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A36-mcg2",
+        "GROUP_NAME": "A36-機群2",
+        "MACHINE_ID": "A36-mcg2-mc1",
+        "MACHINE_NAME": "A36-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A36-mcg2",
+        "GROUP_NAME": "A36-機群2",
+        "MACHINE_ID": "A36-mcg2-mc2",
+        "MACHINE_NAME": "A36-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A36-mcg2",
+        "GROUP_NAME": "A36-機群2",
+        "MACHINE_ID": "A36-mcg2-mc3",
+        "MACHINE_NAME": "A36-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A36-mcg2",
+        "GROUP_NAME": "A36-機群2",
+        "MACHINE_ID": "A36-mcg2-mc4",
+        "MACHINE_NAME": "A36-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A50-mcg1",
+        "GROUP_NAME": "A50-機群1",
+        "MACHINE_ID": "A50-mcg1-mc1",
+        "MACHINE_NAME": "A50-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A50-mcg1",
+        "GROUP_NAME": "A50-機群1",
+        "MACHINE_ID": "A50-mcg1-mc2",
+        "MACHINE_NAME": "A50-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A50-mcg1",
+        "GROUP_NAME": "A50-機群1",
+        "MACHINE_ID": "A50-mcg1-mc3",
+        "MACHINE_NAME": "A50-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A50-mcg1",
+        "GROUP_NAME": "A50-機群1",
+        "MACHINE_ID": "A50-mcg1-mc4",
+        "MACHINE_NAME": "A50-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A50-mcg2",
+        "GROUP_NAME": "A50-機群2",
+        "MACHINE_ID": "A50-mcg2-mc1",
+        "MACHINE_NAME": "A50-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A50-mcg2",
+        "GROUP_NAME": "A50-機群2",
+        "MACHINE_ID": "A50-mcg2-mc2",
+        "MACHINE_NAME": "A50-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A50-mcg2",
+        "GROUP_NAME": "A50-機群2",
+        "MACHINE_ID": "A50-mcg2-mc3",
+        "MACHINE_NAME": "A50-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A50-mcg2",
+        "GROUP_NAME": "A50-機群2",
+        "MACHINE_ID": "A50-mcg2-mc4",
+        "MACHINE_NAME": "A50-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A3B-mcg1",
+        "GROUP_NAME": "A3B-機群1",
+        "MACHINE_ID": "A3B-mcg1-mc1",
+        "MACHINE_NAME": "A3B-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A3B-mcg1",
+        "GROUP_NAME": "A3B-機群1",
+        "MACHINE_ID": "A3B-mcg1-mc2",
+        "MACHINE_NAME": "A3B-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A3B-mcg1",
+        "GROUP_NAME": "A3B-機群1",
+        "MACHINE_ID": "A3B-mcg1-mc3",
+        "MACHINE_NAME": "A3B-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A3B-mcg1",
+        "GROUP_NAME": "A3B-機群1",
+        "MACHINE_ID": "A3B-mcg1-mc4",
+        "MACHINE_NAME": "A3B-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A2B-mcg2",
+        "GROUP_NAME": "A2B-機群2",
+        "MACHINE_ID": "A2B-mcg2-mc1",
+        "MACHINE_NAME": "A2B-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A2B-mcg2",
+        "GROUP_NAME": "A2B-機群2",
+        "MACHINE_ID": "A2B-mcg2-mc2",
+        "MACHINE_NAME": "A2B-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A1B-mcg1",
+        "GROUP_NAME": "A1B-機群1",
+        "MACHINE_ID": "A1B-mcg1-mc1",
+        "MACHINE_NAME": "A1B-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A1B-mcg1",
+        "GROUP_NAME": "A1B-機群1",
+        "MACHINE_ID": "A1B-mcg1-mc2",
+        "MACHINE_NAME": "A1B-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A05-mcg1",
+        "GROUP_NAME": "A05-機群1",
+        "MACHINE_ID": "A05-mcg1-mc1",
+        "MACHINE_NAME": "A05-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A05-mcg1",
+        "GROUP_NAME": "A05-機群1",
+        "MACHINE_ID": "A05-mcg1-mc2",
+        "MACHINE_NAME": "A05-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A05-mcg1",
+        "GROUP_NAME": "A05-機群1",
+        "MACHINE_ID": "A05-mcg1-mc3",
+        "MACHINE_NAME": "A05-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A05-mcg1",
+        "GROUP_NAME": "A05-機群1",
+        "MACHINE_ID": "A05-mcg1-mc4",
+        "MACHINE_NAME": "A05-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A08-mcg1",
+        "GROUP_NAME": "A08-機群1",
+        "MACHINE_ID": "A08-mcg1-mc1",
+        "MACHINE_NAME": "A08-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A08-mcg1",
+        "GROUP_NAME": "A08-機群1",
+        "MACHINE_ID": "A08-mcg1-mc2",
+        "MACHINE_NAME": "A08-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A00-mcg2",
+        "GROUP_NAME": "A00-機群2",
+        "MACHINE_ID": "A00-mcg2-mc1",
+        "MACHINE_NAME": "A00-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A00-mcg2",
+        "GROUP_NAME": "A00-機群2",
+        "MACHINE_ID": "A00-mcg2-mc2",
+        "MACHINE_NAME": "A00-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A00-mcg2",
+        "GROUP_NAME": "A00-機群2",
+        "MACHINE_ID": "A00-mcg2-mc3",
+        "MACHINE_NAME": "A00-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A00-mcg2",
+        "GROUP_NAME": "A00-機群2",
+        "MACHINE_ID": "A00-mcg2-mc4",
+        "MACHINE_NAME": "A00-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A86-mcg2",
+        "GROUP_NAME": "A86-機群2",
+        "MACHINE_ID": "A86-mcg2-mc1",
+        "MACHINE_NAME": "A86-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A86-mcg2",
+        "GROUP_NAME": "A86-機群2",
+        "MACHINE_ID": "A86-mcg2-mc2",
+        "MACHINE_NAME": "A86-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A29-mcg2",
+        "GROUP_NAME": "A29-機群2",
+        "MACHINE_ID": "A29-mcg2-mc1",
+        "MACHINE_NAME": "A29-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A29-mcg2",
+        "GROUP_NAME": "A29-機群2",
+        "MACHINE_ID": "A29-mcg2-mc2",
+        "MACHINE_NAME": "A29-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A29-mcg2",
+        "GROUP_NAME": "A29-機群2",
+        "MACHINE_ID": "A29-mcg2-mc3",
+        "MACHINE_NAME": "A29-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A29-mcg2",
+        "GROUP_NAME": "A29-機群2",
+        "MACHINE_ID": "A29-mcg2-mc4",
+        "MACHINE_NAME": "A29-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A26-mcg2",
+        "GROUP_NAME": "A26-機群2",
+        "MACHINE_ID": "A26-mcg2-mc1",
+        "MACHINE_NAME": "A26-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A26-mcg2",
+        "GROUP_NAME": "A26-機群2",
+        "MACHINE_ID": "A26-mcg2-mc2",
+        "MACHINE_NAME": "A26-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A47-mcg1",
+        "GROUP_NAME": "A47-機群1",
+        "MACHINE_ID": "A47-mcg1-mc1",
+        "MACHINE_NAME": "A47-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A47-mcg1",
+        "GROUP_NAME": "A47-機群1",
+        "MACHINE_ID": "A47-mcg1-mc2",
+        "MACHINE_NAME": "A47-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A1A-mcg2",
+        "GROUP_NAME": "A1A-機群2",
+        "MACHINE_ID": "A1A-mcg2-mc1",
+        "MACHINE_NAME": "A1A-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A1A-mcg2",
+        "GROUP_NAME": "A1A-機群2",
+        "MACHINE_ID": "A1A-mcg2-mc2",
+        "MACHINE_NAME": "A1A-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A59-mcg1",
+        "GROUP_NAME": "A59-機群1",
+        "MACHINE_ID": "A59-mcg1-mc1",
+        "MACHINE_NAME": "A59-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A59-mcg1",
+        "GROUP_NAME": "A59-機群1",
+        "MACHINE_ID": "A59-mcg1-mc2",
+        "MACHINE_NAME": "A59-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A59-mcg1",
+        "GROUP_NAME": "A59-機群1",
+        "MACHINE_ID": "A59-mcg1-mc3",
+        "MACHINE_NAME": "A59-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A59-mcg1",
+        "GROUP_NAME": "A59-機群1",
+        "MACHINE_ID": "A59-mcg1-mc4",
+        "MACHINE_NAME": "A59-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A83-mcg1",
+        "GROUP_NAME": "A83-機群1",
+        "MACHINE_ID": "A83-mcg1-mc1",
+        "MACHINE_NAME": "A83-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A83-mcg1",
+        "GROUP_NAME": "A83-機群1",
+        "MACHINE_ID": "A83-mcg1-mc2",
+        "MACHINE_NAME": "A83-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A35-mcg1",
+        "GROUP_NAME": "A35-機群1",
+        "MACHINE_ID": "A35-mcg1-mc1",
+        "MACHINE_NAME": "A35-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A35-mcg1",
+        "GROUP_NAME": "A35-機群1",
+        "MACHINE_ID": "A35-mcg1-mc2",
+        "MACHINE_NAME": "A35-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A2C-mcg2",
+        "GROUP_NAME": "A2C-機群2",
+        "MACHINE_ID": "A2C-mcg2-mc1",
+        "MACHINE_NAME": "A2C-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A2C-mcg2",
+        "GROUP_NAME": "A2C-機群2",
+        "MACHINE_ID": "A2C-mcg2-mc2",
+        "MACHINE_NAME": "A2C-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A2C-mcg2",
+        "GROUP_NAME": "A2C-機群2",
+        "MACHINE_ID": "A2C-mcg2-mc3",
+        "MACHINE_NAME": "A2C-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A2C-mcg2",
+        "GROUP_NAME": "A2C-機群2",
+        "MACHINE_ID": "A2C-mcg2-mc4",
+        "MACHINE_NAME": "A2C-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A82-mcg1",
+        "GROUP_NAME": "A82-機群1",
+        "MACHINE_ID": "A82-mcg1-mc1",
+        "MACHINE_NAME": "A82-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A82-mcg1",
+        "GROUP_NAME": "A82-機群1",
+        "MACHINE_ID": "A82-mcg1-mc2",
+        "MACHINE_NAME": "A82-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A25-mcg2",
+        "GROUP_NAME": "A25-機群2",
+        "MACHINE_ID": "A25-mcg2-mc1",
+        "MACHINE_NAME": "A25-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A25-mcg2",
+        "GROUP_NAME": "A25-機群2",
+        "MACHINE_ID": "A25-mcg2-mc2",
+        "MACHINE_NAME": "A25-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A15-mcg2",
+        "GROUP_NAME": "A15-機群2",
+        "MACHINE_ID": "A15-mcg2-mc1",
+        "MACHINE_NAME": "A15-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A15-mcg2",
+        "GROUP_NAME": "A15-機群2",
+        "MACHINE_ID": "A15-mcg2-mc2",
+        "MACHINE_NAME": "A15-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A89-mcg2",
+        "GROUP_NAME": "A89-機群2",
+        "MACHINE_ID": "A89-mcg2-mc1",
+        "MACHINE_NAME": "A89-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A89-mcg2",
+        "GROUP_NAME": "A89-機群2",
+        "MACHINE_ID": "A89-mcg2-mc2",
+        "MACHINE_NAME": "A89-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A89-mcg2",
+        "GROUP_NAME": "A89-機群2",
+        "MACHINE_ID": "A89-mcg2-mc3",
+        "MACHINE_NAME": "A89-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A89-mcg2",
+        "GROUP_NAME": "A89-機群2",
+        "MACHINE_ID": "A89-mcg2-mc4",
+        "MACHINE_NAME": "A89-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A25-mcg1",
+        "GROUP_NAME": "A25-機群1",
+        "MACHINE_ID": "A25-mcg1-mc1",
+        "MACHINE_NAME": "A25-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A25-mcg1",
+        "GROUP_NAME": "A25-機群1",
+        "MACHINE_ID": "A25-mcg1-mc2",
+        "MACHINE_NAME": "A25-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A11-mcg1",
+        "GROUP_NAME": "A11-機群1",
+        "MACHINE_ID": "A11-mcg1-mc1",
+        "MACHINE_NAME": "A11-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A11-mcg1",
+        "GROUP_NAME": "A11-機群1",
+        "MACHINE_ID": "A11-mcg1-mc2",
+        "MACHINE_NAME": "A11-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A21-mcg1",
+        "GROUP_NAME": "A21-機群1",
+        "MACHINE_ID": "A21-mcg1-mc1",
+        "MACHINE_NAME": "A21-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A21-mcg1",
+        "GROUP_NAME": "A21-機群1",
+        "MACHINE_ID": "A21-mcg1-mc2",
+        "MACHINE_NAME": "A21-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A8A-mcg2",
+        "GROUP_NAME": "A8A-機群2",
+        "MACHINE_ID": "A8A-mcg2-mc1",
+        "MACHINE_NAME": "A8A-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A8A-mcg2",
+        "GROUP_NAME": "A8A-機群2",
+        "MACHINE_ID": "A8A-mcg2-mc2",
+        "MACHINE_NAME": "A8A-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A77-mcg2",
+        "GROUP_NAME": "A77-機群2",
+        "MACHINE_ID": "A77-mcg2-mc1",
+        "MACHINE_NAME": "A77-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A77-mcg2",
+        "GROUP_NAME": "A77-機群2",
+        "MACHINE_ID": "A77-mcg2-mc2",
+        "MACHINE_NAME": "A77-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A30-mcg1",
+        "GROUP_NAME": "A30-機群1",
+        "MACHINE_ID": "A30-mcg1-mc1",
+        "MACHINE_NAME": "A30-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A30-mcg1",
+        "GROUP_NAME": "A30-機群1",
+        "MACHINE_ID": "A30-mcg1-mc2",
+        "MACHINE_NAME": "A30-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A30-mcg1",
+        "GROUP_NAME": "A30-機群1",
+        "MACHINE_ID": "A30-mcg1-mc3",
+        "MACHINE_NAME": "A30-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A30-mcg1",
+        "GROUP_NAME": "A30-機群1",
+        "MACHINE_ID": "A30-mcg1-mc4",
+        "MACHINE_NAME": "A30-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A53-mcg1",
+        "GROUP_NAME": "A53-機群1",
+        "MACHINE_ID": "A53-mcg1-mc1",
+        "MACHINE_NAME": "A53-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A53-mcg1",
+        "GROUP_NAME": "A53-機群1",
+        "MACHINE_ID": "A53-mcg1-mc2",
+        "MACHINE_NAME": "A53-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A88-mcg1",
+        "GROUP_NAME": "A88-機群1",
+        "MACHINE_ID": "A88-mcg1-mc1",
+        "MACHINE_NAME": "A88-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A88-mcg1",
+        "GROUP_NAME": "A88-機群1",
+        "MACHINE_ID": "A88-mcg1-mc2",
+        "MACHINE_NAME": "A88-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A88-mcg1",
+        "GROUP_NAME": "A88-機群1",
+        "MACHINE_ID": "A88-mcg1-mc3",
+        "MACHINE_NAME": "A88-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A88-mcg1",
+        "GROUP_NAME": "A88-機群1",
+        "MACHINE_ID": "A88-mcg1-mc4",
+        "MACHINE_NAME": "A88-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A13-mcg2",
+        "GROUP_NAME": "A13-機群2",
+        "MACHINE_ID": "A13-mcg2-mc1",
+        "MACHINE_NAME": "A13-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A13-mcg2",
+        "GROUP_NAME": "A13-機群2",
+        "MACHINE_ID": "A13-mcg2-mc2",
+        "MACHINE_NAME": "A13-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A1B-mcg2",
+        "GROUP_NAME": "A1B-機群2",
+        "MACHINE_ID": "A1B-mcg2-mc1",
+        "MACHINE_NAME": "A1B-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A1B-mcg2",
+        "GROUP_NAME": "A1B-機群2",
+        "MACHINE_ID": "A1B-mcg2-mc2",
+        "MACHINE_NAME": "A1B-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A43-mcg2",
+        "GROUP_NAME": "A43-機群2",
+        "MACHINE_ID": "A43-mcg2-mc1",
+        "MACHINE_NAME": "A43-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A43-mcg2",
+        "GROUP_NAME": "A43-機群2",
+        "MACHINE_ID": "A43-mcg2-mc2",
+        "MACHINE_NAME": "A43-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A43-mcg2",
+        "GROUP_NAME": "A43-機群2",
+        "MACHINE_ID": "A43-mcg2-mc3",
+        "MACHINE_NAME": "A43-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A43-mcg2",
+        "GROUP_NAME": "A43-機群2",
+        "MACHINE_ID": "A43-mcg2-mc4",
+        "MACHINE_NAME": "A43-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A66-mcg1",
+        "GROUP_NAME": "A66-機群1",
+        "MACHINE_ID": "A66-mcg1-mc1",
+        "MACHINE_NAME": "A66-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A66-mcg1",
+        "GROUP_NAME": "A66-機群1",
+        "MACHINE_ID": "A66-mcg1-mc2",
+        "MACHINE_NAME": "A66-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A53-mcg2",
+        "GROUP_NAME": "A53-機群2",
+        "MACHINE_ID": "A53-mcg2-mc1",
+        "MACHINE_NAME": "A53-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A53-mcg2",
+        "GROUP_NAME": "A53-機群2",
+        "MACHINE_ID": "A53-mcg2-mc2",
+        "MACHINE_NAME": "A53-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A64-mcg2",
+        "GROUP_NAME": "A64-機群2",
+        "MACHINE_ID": "A64-mcg2-mc1",
+        "MACHINE_NAME": "A64-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A64-mcg2",
+        "GROUP_NAME": "A64-機群2",
+        "MACHINE_ID": "A64-mcg2-mc2",
+        "MACHINE_NAME": "A64-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A61-mcg1",
+        "GROUP_NAME": "A61-機群1",
+        "MACHINE_ID": "A61-mcg1-mc1",
+        "MACHINE_NAME": "A61-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A61-mcg1",
+        "GROUP_NAME": "A61-機群1",
+        "MACHINE_ID": "A61-mcg1-mc2",
+        "MACHINE_NAME": "A61-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A61-mcg1",
+        "GROUP_NAME": "A61-機群1",
+        "MACHINE_ID": "A61-mcg1-mc3",
+        "MACHINE_NAME": "A61-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A61-mcg1",
+        "GROUP_NAME": "A61-機群1",
+        "MACHINE_ID": "A61-mcg1-mc4",
+        "MACHINE_NAME": "A61-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A84-mcg1",
+        "GROUP_NAME": "A84-機群1",
+        "MACHINE_ID": "A84-mcg1-mc1",
+        "MACHINE_NAME": "A84-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A84-mcg1",
+        "GROUP_NAME": "A84-機群1",
+        "MACHINE_ID": "A84-mcg1-mc2",
+        "MACHINE_NAME": "A84-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A84-mcg1",
+        "GROUP_NAME": "A84-機群1",
+        "MACHINE_ID": "A84-mcg1-mc3",
+        "MACHINE_NAME": "A84-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A84-mcg1",
+        "GROUP_NAME": "A84-機群1",
+        "MACHINE_ID": "A84-mcg1-mc4",
+        "MACHINE_NAME": "A84-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A91-mcg2",
+        "GROUP_NAME": "A91-機群2",
+        "MACHINE_ID": "A91-mcg2-mc1",
+        "MACHINE_NAME": "A91-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A91-mcg2",
+        "GROUP_NAME": "A91-機群2",
+        "MACHINE_ID": "A91-mcg2-mc2",
+        "MACHINE_NAME": "A91-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A71-mcg1",
+        "GROUP_NAME": "A71-機群1",
+        "MACHINE_ID": "A71-mcg1-mc1",
+        "MACHINE_NAME": "A71-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A71-mcg1",
+        "GROUP_NAME": "A71-機群1",
+        "MACHINE_ID": "A71-mcg1-mc2",
+        "MACHINE_NAME": "A71-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A93-mcg2",
+        "GROUP_NAME": "A93-機群2",
+        "MACHINE_ID": "A93-mcg2-mc1",
+        "MACHINE_NAME": "A93-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A93-mcg2",
+        "GROUP_NAME": "A93-機群2",
+        "MACHINE_ID": "A93-mcg2-mc2",
+        "MACHINE_NAME": "A93-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A07-mcg2",
+        "GROUP_NAME": "A07-機群2",
+        "MACHINE_ID": "A07-mcg2-mc1",
+        "MACHINE_NAME": "A07-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A07-mcg2",
+        "GROUP_NAME": "A07-機群2",
+        "MACHINE_ID": "A07-mcg2-mc2",
+        "MACHINE_NAME": "A07-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A63-mcg2",
+        "GROUP_NAME": "A63-機群2",
+        "MACHINE_ID": "A63-mcg2-mc1",
+        "MACHINE_NAME": "A63-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A63-mcg2",
+        "GROUP_NAME": "A63-機群2",
+        "MACHINE_ID": "A63-mcg2-mc2",
+        "MACHINE_NAME": "A63-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A02-mcg2",
+        "GROUP_NAME": "A02-機群2",
+        "MACHINE_ID": "A02-mcg2-mc1",
+        "MACHINE_NAME": "A02-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A02-mcg2",
+        "GROUP_NAME": "A02-機群2",
+        "MACHINE_ID": "A02-mcg2-mc2",
+        "MACHINE_NAME": "A02-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A02-mcg2",
+        "GROUP_NAME": "A02-機群2",
+        "MACHINE_ID": "A02-mcg2-mc3",
+        "MACHINE_NAME": "A02-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A02-mcg2",
+        "GROUP_NAME": "A02-機群2",
+        "MACHINE_ID": "A02-mcg2-mc4",
+        "MACHINE_NAME": "A02-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A51-mcg2",
+        "GROUP_NAME": "A51-機群2",
+        "MACHINE_ID": "A51-mcg2-mc1",
+        "MACHINE_NAME": "A51-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A51-mcg2",
+        "GROUP_NAME": "A51-機群2",
+        "MACHINE_ID": "A51-mcg2-mc2",
+        "MACHINE_NAME": "A51-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A51-mcg2",
+        "GROUP_NAME": "A51-機群2",
+        "MACHINE_ID": "A51-mcg2-mc3",
+        "MACHINE_NAME": "A51-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A51-mcg2",
+        "GROUP_NAME": "A51-機群2",
+        "MACHINE_ID": "A51-mcg2-mc4",
+        "MACHINE_NAME": "A51-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A61-mcg2",
+        "GROUP_NAME": "A61-機群2",
+        "MACHINE_ID": "A61-mcg2-mc1",
+        "MACHINE_NAME": "A61-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A61-mcg2",
+        "GROUP_NAME": "A61-機群2",
+        "MACHINE_ID": "A61-mcg2-mc2",
+        "MACHINE_NAME": "A61-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A61-mcg2",
+        "GROUP_NAME": "A61-機群2",
+        "MACHINE_ID": "A61-mcg2-mc3",
+        "MACHINE_NAME": "A61-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A61-mcg2",
+        "GROUP_NAME": "A61-機群2",
+        "MACHINE_ID": "A61-mcg2-mc4",
+        "MACHINE_NAME": "A61-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A90-mcg1",
+        "GROUP_NAME": "A90-機群1",
+        "MACHINE_ID": "A90-mcg1-mc1",
+        "MACHINE_NAME": "A90-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A90-mcg1",
+        "GROUP_NAME": "A90-機群1",
+        "MACHINE_ID": "A90-mcg1-mc2",
+        "MACHINE_NAME": "A90-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A98-mcg2",
+        "GROUP_NAME": "A98-機群2",
+        "MACHINE_ID": "A98-mcg2-mc1",
+        "MACHINE_NAME": "A98-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A98-mcg2",
+        "GROUP_NAME": "A98-機群2",
+        "MACHINE_ID": "A98-mcg2-mc2",
+        "MACHINE_NAME": "A98-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A64-mcg1",
+        "GROUP_NAME": "A64-機群1",
+        "MACHINE_ID": "A64-mcg1-mc1",
+        "MACHINE_NAME": "A64-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A64-mcg1",
+        "GROUP_NAME": "A64-機群1",
+        "MACHINE_ID": "A64-mcg1-mc2",
+        "MACHINE_NAME": "A64-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A86-mcg1",
+        "GROUP_NAME": "A86-機群1",
+        "MACHINE_ID": "A86-mcg1-mc1",
+        "MACHINE_NAME": "A86-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A86-mcg1",
+        "GROUP_NAME": "A86-機群1",
+        "MACHINE_ID": "A86-mcg1-mc2",
+        "MACHINE_NAME": "A86-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A2C-mcg1",
+        "GROUP_NAME": "A2C-機群1",
+        "MACHINE_ID": "A2C-mcg1-mc1",
+        "MACHINE_NAME": "A2C-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A2C-mcg1",
+        "GROUP_NAME": "A2C-機群1",
+        "MACHINE_ID": "A2C-mcg1-mc2",
+        "MACHINE_NAME": "A2C-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A2C-mcg1",
+        "GROUP_NAME": "A2C-機群1",
+        "MACHINE_ID": "A2C-mcg1-mc3",
+        "MACHINE_NAME": "A2C-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A2C-mcg1",
+        "GROUP_NAME": "A2C-機群1",
+        "MACHINE_ID": "A2C-mcg1-mc4",
+        "MACHINE_NAME": "A2C-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "Z99-mcg2",
+        "GROUP_NAME": "Z99-機群2",
+        "MACHINE_ID": "Z99-mcg2-mc1",
+        "MACHINE_NAME": "Z99-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "Z99-mcg2",
+        "GROUP_NAME": "Z99-機群2",
+        "MACHINE_ID": "Z99-mcg2-mc2",
+        "MACHINE_NAME": "Z99-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A89-mcg1",
+        "GROUP_NAME": "A89-機群1",
+        "MACHINE_ID": "A89-mcg1-mc1",
+        "MACHINE_NAME": "A89-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A89-mcg1",
+        "GROUP_NAME": "A89-機群1",
+        "MACHINE_ID": "A89-mcg1-mc2",
+        "MACHINE_NAME": "A89-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A89-mcg1",
+        "GROUP_NAME": "A89-機群1",
+        "MACHINE_ID": "A89-mcg1-mc3",
+        "MACHINE_NAME": "A89-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A89-mcg1",
+        "GROUP_NAME": "A89-機群1",
+        "MACHINE_ID": "A89-mcg1-mc4",
+        "MACHINE_NAME": "A89-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "Z99-mcg1",
+        "GROUP_NAME": "Z99-機群1",
+        "MACHINE_ID": "Z99-mcg1-mc1",
+        "MACHINE_NAME": "Z99-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "Z99-mcg1",
+        "GROUP_NAME": "Z99-機群1",
+        "MACHINE_ID": "Z99-mcg1-mc2",
+        "MACHINE_NAME": "Z99-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A76-mcg1",
+        "GROUP_NAME": "A76-機群1",
+        "MACHINE_ID": "A76-mcg1-mc1",
+        "MACHINE_NAME": "A76-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A76-mcg1",
+        "GROUP_NAME": "A76-機群1",
+        "MACHINE_ID": "A76-mcg1-mc2",
+        "MACHINE_NAME": "A76-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A76-mcg1",
+        "GROUP_NAME": "A76-機群1",
+        "MACHINE_ID": "A76-mcg1-mc3",
+        "MACHINE_NAME": "A76-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A76-mcg1",
+        "GROUP_NAME": "A76-機群1",
+        "MACHINE_ID": "A76-mcg1-mc4",
+        "MACHINE_NAME": "A76-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A8A-mcg1",
+        "GROUP_NAME": "A8A-機群1",
+        "MACHINE_ID": "A8A-mcg1-mc1",
+        "MACHINE_NAME": "A8A-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A8A-mcg1",
+        "GROUP_NAME": "A8A-機群1",
+        "MACHINE_ID": "A8A-mcg1-mc2",
+        "MACHINE_NAME": "A8A-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A93-mcg1",
+        "GROUP_NAME": "A93-機群1",
+        "MACHINE_ID": "A93-mcg1-mc1",
+        "MACHINE_NAME": "A93-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A93-mcg1",
+        "GROUP_NAME": "A93-機群1",
+        "MACHINE_ID": "A93-mcg1-mc2",
+        "MACHINE_NAME": "A93-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A91-mcg1",
+        "GROUP_NAME": "A91-機群1",
+        "MACHINE_ID": "A91-mcg1-mc1",
+        "MACHINE_NAME": "A91-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A91-mcg1",
+        "GROUP_NAME": "A91-機群1",
+        "MACHINE_ID": "A91-mcg1-mc2",
+        "MACHINE_NAME": "A91-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A04-mcg1",
+        "GROUP_NAME": "A04-機群1",
+        "MACHINE_ID": "A04-mcg1-mc1",
+        "MACHINE_NAME": "A04-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A04-mcg1",
+        "GROUP_NAME": "A04-機群1",
+        "MACHINE_ID": "A04-mcg1-mc2",
+        "MACHINE_NAME": "A04-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A04-mcg1",
+        "GROUP_NAME": "A04-機群1",
+        "MACHINE_ID": "A04-mcg1-mc3",
+        "MACHINE_NAME": "A04-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A04-mcg1",
+        "GROUP_NAME": "A04-機群1",
+        "MACHINE_ID": "A04-mcg1-mc4",
+        "MACHINE_NAME": "A04-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A83-mcg2",
+        "GROUP_NAME": "A83-機群2",
+        "MACHINE_ID": "A83-mcg2-mc1",
+        "MACHINE_NAME": "A83-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A83-mcg2",
+        "GROUP_NAME": "A83-機群2",
+        "MACHINE_ID": "A83-mcg2-mc2",
+        "MACHINE_NAME": "A83-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A04-mcg2",
+        "GROUP_NAME": "A04-機群2",
+        "MACHINE_ID": "A04-mcg2-mc1",
+        "MACHINE_NAME": "A04-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A04-mcg2",
+        "GROUP_NAME": "A04-機群2",
+        "MACHINE_ID": "A04-mcg2-mc2",
+        "MACHINE_NAME": "A04-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A04-mcg2",
+        "GROUP_NAME": "A04-機群2",
+        "MACHINE_ID": "A04-mcg2-mc3",
+        "MACHINE_NAME": "A04-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A04-mcg2",
+        "GROUP_NAME": "A04-機群2",
+        "MACHINE_ID": "A04-mcg2-mc4",
+        "MACHINE_NAME": "A04-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A76-mcg2",
+        "GROUP_NAME": "A76-機群2",
+        "MACHINE_ID": "A76-mcg2-mc1",
+        "MACHINE_NAME": "A76-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A76-mcg2",
+        "GROUP_NAME": "A76-機群2",
+        "MACHINE_ID": "A76-mcg2-mc2",
+        "MACHINE_NAME": "A76-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A76-mcg2",
+        "GROUP_NAME": "A76-機群2",
+        "MACHINE_ID": "A76-mcg2-mc3",
+        "MACHINE_NAME": "A76-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A76-mcg2",
+        "GROUP_NAME": "A76-機群2",
+        "MACHINE_ID": "A76-mcg2-mc4",
+        "MACHINE_NAME": "A76-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A08-mcg2",
+        "GROUP_NAME": "A08-機群2",
+        "MACHINE_ID": "A08-mcg2-mc1",
+        "MACHINE_NAME": "A08-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A08-mcg2",
+        "GROUP_NAME": "A08-機群2",
+        "MACHINE_ID": "A08-mcg2-mc2",
+        "MACHINE_NAME": "A08-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A2A-mcg1",
+        "GROUP_NAME": "A2A-機群1",
+        "MACHINE_ID": "A2A-mcg1-mc1",
+        "MACHINE_NAME": "A2A-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A2A-mcg1",
+        "GROUP_NAME": "A2A-機群1",
+        "MACHINE_ID": "A2A-mcg1-mc2",
+        "MACHINE_NAME": "A2A-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A2A-mcg1",
+        "GROUP_NAME": "A2A-機群1",
+        "MACHINE_ID": "A2A-mcg1-mc3",
+        "MACHINE_NAME": "A2A-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A2A-mcg1",
+        "GROUP_NAME": "A2A-機群1",
+        "MACHINE_ID": "A2A-mcg1-mc4",
+        "MACHINE_NAME": "A2A-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A63-mcg1",
+        "GROUP_NAME": "A63-機群1",
+        "MACHINE_ID": "A63-mcg1-mc1",
+        "MACHINE_NAME": "A63-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A63-mcg1",
+        "GROUP_NAME": "A63-機群1",
+        "MACHINE_ID": "A63-mcg1-mc2",
+        "MACHINE_NAME": "A63-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A43-mcg1",
+        "GROUP_NAME": "A43-機群1",
+        "MACHINE_ID": "A43-mcg1-mc1",
+        "MACHINE_NAME": "A43-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A43-mcg1",
+        "GROUP_NAME": "A43-機群1",
+        "MACHINE_ID": "A43-mcg1-mc2",
+        "MACHINE_NAME": "A43-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A43-mcg1",
+        "GROUP_NAME": "A43-機群1",
+        "MACHINE_ID": "A43-mcg1-mc3",
+        "MACHINE_NAME": "A43-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A43-mcg1",
+        "GROUP_NAME": "A43-機群1",
+        "MACHINE_ID": "A43-mcg1-mc4",
+        "MACHINE_NAME": "A43-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A94-mcg2",
+        "GROUP_NAME": "A94-機群2",
+        "MACHINE_ID": "A94-mcg2-mc1",
+        "MACHINE_NAME": "A94-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A94-mcg2",
+        "GROUP_NAME": "A94-機群2",
+        "MACHINE_ID": "A94-mcg2-mc2",
+        "MACHINE_NAME": "A94-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A32-mcg2",
+        "GROUP_NAME": "A32-機群2",
+        "MACHINE_ID": "A32-mcg2-mc1",
+        "MACHINE_NAME": "A32-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A32-mcg2",
+        "GROUP_NAME": "A32-機群2",
+        "MACHINE_ID": "A32-mcg2-mc2",
+        "MACHINE_NAME": "A32-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A87-mcg1",
+        "GROUP_NAME": "A87-機群1",
+        "MACHINE_ID": "A87-mcg1-mc1",
+        "MACHINE_NAME": "A87-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A87-mcg1",
+        "GROUP_NAME": "A87-機群1",
+        "MACHINE_ID": "A87-mcg1-mc2",
+        "MACHINE_NAME": "A87-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A87-mcg1",
+        "GROUP_NAME": "A87-機群1",
+        "MACHINE_ID": "A87-mcg1-mc3",
+        "MACHINE_NAME": "A87-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A87-mcg1",
+        "GROUP_NAME": "A87-機群1",
+        "MACHINE_ID": "A87-mcg1-mc4",
+        "MACHINE_NAME": "A87-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A74-mcg1",
+        "GROUP_NAME": "A74-機群1",
+        "MACHINE_ID": "A74-mcg1-mc1",
+        "MACHINE_NAME": "A74-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A74-mcg1",
+        "GROUP_NAME": "A74-機群1",
+        "MACHINE_ID": "A74-mcg1-mc2",
+        "MACHINE_NAME": "A74-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A74-mcg1",
+        "GROUP_NAME": "A74-機群1",
+        "MACHINE_ID": "A74-mcg1-mc3",
+        "MACHINE_NAME": "A74-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A74-mcg1",
+        "GROUP_NAME": "A74-機群1",
+        "MACHINE_ID": "A74-mcg1-mc4",
+        "MACHINE_NAME": "A74-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A80-mcg1",
+        "GROUP_NAME": "A80-機群1",
+        "MACHINE_ID": "A80-mcg1-mc1",
+        "MACHINE_NAME": "A80-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A80-mcg1",
+        "GROUP_NAME": "A80-機群1",
+        "MACHINE_ID": "A80-mcg1-mc2",
+        "MACHINE_NAME": "A80-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A80-mcg1",
+        "GROUP_NAME": "A80-機群1",
+        "MACHINE_ID": "A80-mcg1-mc3",
+        "MACHINE_NAME": "A80-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A80-mcg1",
+        "GROUP_NAME": "A80-機群1",
+        "MACHINE_ID": "A80-mcg1-mc4",
+        "MACHINE_NAME": "A80-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A2B-mcg1",
+        "GROUP_NAME": "A2B-機群1",
+        "MACHINE_ID": "A2B-mcg1-mc1",
+        "MACHINE_NAME": "A2B-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A2B-mcg1",
+        "GROUP_NAME": "A2B-機群1",
+        "MACHINE_ID": "A2B-mcg1-mc2",
+        "MACHINE_NAME": "A2B-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A10-mcg1",
+        "GROUP_NAME": "A10-機群1",
+        "MACHINE_ID": "A10-mcg1-mc1",
+        "MACHINE_NAME": "A10-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A10-mcg1",
+        "GROUP_NAME": "A10-機群1",
+        "MACHINE_ID": "A10-mcg1-mc2",
+        "MACHINE_NAME": "A10-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A90-mcg2",
+        "GROUP_NAME": "A90-機群2",
+        "MACHINE_ID": "A90-mcg2-mc1",
+        "MACHINE_NAME": "A90-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A90-mcg2",
+        "GROUP_NAME": "A90-機群2",
+        "MACHINE_ID": "A90-mcg2-mc2",
+        "MACHINE_NAME": "A90-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A35-mcg2",
+        "GROUP_NAME": "A35-機群2",
+        "MACHINE_ID": "A35-mcg2-mc1",
+        "MACHINE_NAME": "A35-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A35-mcg2",
+        "GROUP_NAME": "A35-機群2",
+        "MACHINE_ID": "A35-mcg2-mc2",
+        "MACHINE_NAME": "A35-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A66-mcg2",
+        "GROUP_NAME": "A66-機群2",
+        "MACHINE_ID": "A66-mcg2-mc1",
+        "MACHINE_NAME": "A66-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A66-mcg2",
+        "GROUP_NAME": "A66-機群2",
+        "MACHINE_ID": "A66-mcg2-mc2",
+        "MACHINE_NAME": "A66-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A74-mcg2",
+        "GROUP_NAME": "A74-機群2",
+        "MACHINE_ID": "A74-mcg2-mc1",
+        "MACHINE_NAME": "A74-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A74-mcg2",
+        "GROUP_NAME": "A74-機群2",
+        "MACHINE_ID": "A74-mcg2-mc2",
+        "MACHINE_NAME": "A74-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A74-mcg2",
+        "GROUP_NAME": "A74-機群2",
+        "MACHINE_ID": "A74-mcg2-mc3",
+        "MACHINE_NAME": "A74-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A74-mcg2",
+        "GROUP_NAME": "A74-機群2",
+        "MACHINE_ID": "A74-mcg2-mc4",
+        "MACHINE_NAME": "A74-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A58-mcg1",
+        "GROUP_NAME": "A58-機群1",
+        "MACHINE_ID": "A58-mcg1-mc1",
+        "MACHINE_NAME": "A58-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A58-mcg1",
+        "GROUP_NAME": "A58-機群1",
+        "MACHINE_ID": "A58-mcg1-mc2",
+        "MACHINE_NAME": "A58-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A71-mcg2",
+        "GROUP_NAME": "A71-機群2",
+        "MACHINE_ID": "A71-mcg2-mc1",
+        "MACHINE_NAME": "A71-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A71-mcg2",
+        "GROUP_NAME": "A71-機群2",
+        "MACHINE_ID": "A71-mcg2-mc2",
+        "MACHINE_NAME": "A71-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A29-mcg1",
+        "GROUP_NAME": "A29-機群1",
+        "MACHINE_ID": "A29-mcg1-mc1",
+        "MACHINE_NAME": "A29-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A29-mcg1",
+        "GROUP_NAME": "A29-機群1",
+        "MACHINE_ID": "A29-mcg1-mc2",
+        "MACHINE_NAME": "A29-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A29-mcg1",
+        "GROUP_NAME": "A29-機群1",
+        "MACHINE_ID": "A29-mcg1-mc3",
+        "MACHINE_NAME": "A29-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A29-mcg1",
+        "GROUP_NAME": "A29-機群1",
+        "MACHINE_ID": "A29-mcg1-mc4",
+        "MACHINE_NAME": "A29-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A70-mcg2",
+        "GROUP_NAME": "A70-機群2",
+        "MACHINE_ID": "A70-mcg2-mc1",
+        "MACHINE_NAME": "A70-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A70-mcg2",
+        "GROUP_NAME": "A70-機群2",
+        "MACHINE_ID": "A70-mcg2-mc2",
+        "MACHINE_NAME": "A70-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A3B-mcg2",
+        "GROUP_NAME": "A3B-機群2",
+        "MACHINE_ID": "A3B-mcg2-mc1",
+        "MACHINE_NAME": "A3B-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A3B-mcg2",
+        "GROUP_NAME": "A3B-機群2",
+        "MACHINE_ID": "A3B-mcg2-mc2",
+        "MACHINE_NAME": "A3B-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A3B-mcg2",
+        "GROUP_NAME": "A3B-機群2",
+        "MACHINE_ID": "A3B-mcg2-mc3",
+        "MACHINE_NAME": "A3B-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A3B-mcg2",
+        "GROUP_NAME": "A3B-機群2",
+        "MACHINE_ID": "A3B-mcg2-mc4",
+        "MACHINE_NAME": "A3B-mcg2-mc4"
+    },
+    {
+        "GROUP_ID": "A51-mcg1",
+        "GROUP_NAME": "A51-機群1",
+        "MACHINE_ID": "A51-mcg1-mc1",
+        "MACHINE_NAME": "A51-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A51-mcg1",
+        "GROUP_NAME": "A51-機群1",
+        "MACHINE_ID": "A51-mcg1-mc2",
+        "MACHINE_NAME": "A51-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A51-mcg1",
+        "GROUP_NAME": "A51-機群1",
+        "MACHINE_ID": "A51-mcg1-mc3",
+        "MACHINE_NAME": "A51-mcg1-mc3"
+    },
+    {
+        "GROUP_ID": "A51-mcg1",
+        "GROUP_NAME": "A51-機群1",
+        "MACHINE_ID": "A51-mcg1-mc4",
+        "MACHINE_NAME": "A51-mcg1-mc4"
+    },
+    {
+        "GROUP_ID": "A70-mcg1",
+        "GROUP_NAME": "A70-機群1",
+        "MACHINE_ID": "A70-mcg1-mc1",
+        "MACHINE_NAME": "A70-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A70-mcg1",
+        "GROUP_NAME": "A70-機群1",
+        "MACHINE_ID": "A70-mcg1-mc2",
+        "MACHINE_NAME": "A70-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A32-mcg1",
+        "GROUP_NAME": "A32-機群1",
+        "MACHINE_ID": "A32-mcg1-mc1",
+        "MACHINE_NAME": "A32-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A32-mcg1",
+        "GROUP_NAME": "A32-機群1",
+        "MACHINE_ID": "A32-mcg1-mc2",
+        "MACHINE_NAME": "A32-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A20-mcg1",
+        "GROUP_NAME": "A20-機群1",
+        "MACHINE_ID": "A20-mcg1-mc1",
+        "MACHINE_NAME": "A20-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A20-mcg1",
+        "GROUP_NAME": "A20-機群1",
+        "MACHINE_ID": "A20-mcg1-mc2",
+        "MACHINE_NAME": "A20-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A17-mcg2",
+        "GROUP_NAME": "A17-機群2",
+        "MACHINE_ID": "A17-mcg2-mc1",
+        "MACHINE_NAME": "A17-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A17-mcg2",
+        "GROUP_NAME": "A17-機群2",
+        "MACHINE_ID": "A17-mcg2-mc2",
+        "MACHINE_NAME": "A17-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A1A-mcg1",
+        "GROUP_NAME": "A1A-機群1",
+        "MACHINE_ID": "A1A-mcg1-mc1",
+        "MACHINE_NAME": "A1A-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A1A-mcg1",
+        "GROUP_NAME": "A1A-機群1",
+        "MACHINE_ID": "A1A-mcg1-mc2",
+        "MACHINE_NAME": "A1A-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A07-mcg1",
+        "GROUP_NAME": "A07-機群1",
+        "MACHINE_ID": "A07-mcg1-mc1",
+        "MACHINE_NAME": "A07-mcg1-mc1"
+    },
+    {
+        "GROUP_ID": "A07-mcg1",
+        "GROUP_NAME": "A07-機群1",
+        "MACHINE_ID": "A07-mcg1-mc2",
+        "MACHINE_NAME": "A07-mcg1-mc2"
+    },
+    {
+        "GROUP_ID": "A96-mcg2",
+        "GROUP_NAME": "A96-機群2",
+        "MACHINE_ID": "A96-mcg2-mc1",
+        "MACHINE_NAME": "A96-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A96-mcg2",
+        "GROUP_NAME": "A96-機群2",
+        "MACHINE_ID": "A96-mcg2-mc2",
+        "MACHINE_NAME": "A96-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A30-mcg2",
+        "GROUP_NAME": "A30-機群2",
+        "MACHINE_ID": "A30-mcg2-mc1",
+        "MACHINE_NAME": "A30-mcg2-mc1"
+    },
+    {
+        "GROUP_ID": "A30-mcg2",
+        "GROUP_NAME": "A30-機群2",
+        "MACHINE_ID": "A30-mcg2-mc2",
+        "MACHINE_NAME": "A30-mcg2-mc2"
+    },
+    {
+        "GROUP_ID": "A30-mcg2",
+        "GROUP_NAME": "A30-機群2",
+        "MACHINE_ID": "A30-mcg2-mc3",
+        "MACHINE_NAME": "A30-mcg2-mc3"
+    },
+    {
+        "GROUP_ID": "A30-mcg2",
+        "GROUP_NAME": "A30-機群2",
+        "MACHINE_ID": "A30-mcg2-mc4",
+        "MACHINE_NAME": "A30-mcg2-mc4"
+    }
+]

@@ -1,0 +1,6626 @@
+[
+    {
+        "MACHINE_ID": "A20-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:54:05",
+        "END_TIME": "2021-04-24 00:14:05",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A20-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:54:31",
+        "END_TIME": "2021-04-23 12:14:31",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A20-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:37:06",
+        "END_TIME": "2021-04-24 05:57:06",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A20-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:49:06",
+        "END_TIME": "2021-04-23 17:09:06",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A82-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:28:34",
+        "END_TIME": "2021-04-23 23:48:34",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A82-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:24:36",
+        "END_TIME": "2021-04-23 23:44:36",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A82-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 13:38:30",
+        "END_TIME": "2021-04-23 13:58:30",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A82-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 13:37:10",
+        "END_TIME": "2021-04-23 13:57:10",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A15-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:22:22",
+        "END_TIME": "2021-04-23 03:42:22",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A15-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:16:42",
+        "END_TIME": "2021-04-24 08:36:42",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A15-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:17:12",
+        "END_TIME": "2021-04-23 06:37:12",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A15-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:28:05",
+        "END_TIME": "2021-04-23 14:48:05",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:12:06",
+        "END_TIME": "2021-04-23 00:32:06",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:58:45",
+        "END_TIME": "2021-04-24 12:18:45",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:25:41",
+        "END_TIME": "2021-04-23 01:45:41",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:44:04",
+        "END_TIME": "2021-04-23 06:04:04",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:19:25",
+        "END_TIME": "2021-04-23 18:39:25",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:25:16",
+        "END_TIME": "2021-04-24 02:45:16",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:32:13",
+        "END_TIME": "2021-04-24 07:52:13",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:01:39",
+        "END_TIME": "2021-04-23 05:21:39",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A13-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:50:43",
+        "END_TIME": "2021-04-24 02:10:43",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A13-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:40:00",
+        "END_TIME": "2021-04-23 09:00:00",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A13-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:47:39",
+        "END_TIME": "2021-04-24 05:07:39",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A13-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:27:54",
+        "END_TIME": "2021-04-23 10:47:54",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:40:25",
+        "END_TIME": "2021-04-24 07:00:25",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:54:23",
+        "END_TIME": "2021-04-23 12:14:23",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:53:35",
+        "END_TIME": "2021-04-24 07:13:35",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:39:42",
+        "END_TIME": "2021-04-24 01:59:42",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:59:44",
+        "END_TIME": "2021-04-23 09:19:44",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:01:43",
+        "END_TIME": "2021-04-23 01:21:43",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:27:38",
+        "END_TIME": "2021-04-23 00:47:38",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:27:26",
+        "END_TIME": "2021-04-23 06:47:26",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A17-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:09:47",
+        "END_TIME": "2021-04-24 05:29:47",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A17-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:00:31",
+        "END_TIME": "2021-04-23 04:20:31",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A17-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:14:53",
+        "END_TIME": "2021-04-24 06:34:53",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A17-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:44:36",
+        "END_TIME": "2021-04-23 09:04:36",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:46:53",
+        "END_TIME": "2021-04-23 13:06:53",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:37:57",
+        "END_TIME": "2021-04-23 02:57:57",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:31:44",
+        "END_TIME": "2021-04-23 05:51:44",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:44:55",
+        "END_TIME": "2021-04-24 01:04:55",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:47:19",
+        "END_TIME": "2021-04-24 01:07:19",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:20:18",
+        "END_TIME": "2021-04-23 12:40:18",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:20:52",
+        "END_TIME": "2021-04-23 20:40:52",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:01:58",
+        "END_TIME": "2021-04-23 12:21:58",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A98-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:19:54",
+        "END_TIME": "2021-04-23 21:39:54",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A98-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:26:42",
+        "END_TIME": "2021-04-23 23:46:42",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A98-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:27:19",
+        "END_TIME": "2021-04-23 04:47:19",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A98-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:09:27",
+        "END_TIME": "2021-04-23 05:29:27",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A45-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:20:16",
+        "END_TIME": "2021-04-23 18:40:16",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A45-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:24:28",
+        "END_TIME": "2021-04-24 05:44:28",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A45-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:01:16",
+        "END_TIME": "2021-04-24 06:21:16",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A45-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:07:29",
+        "END_TIME": "2021-04-23 06:27:29",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:54:33",
+        "END_TIME": "2021-04-24 04:14:33",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:24:56",
+        "END_TIME": "2021-04-24 08:44:56",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:50:39",
+        "END_TIME": "2021-04-23 13:10:39",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:36:27",
+        "END_TIME": "2021-04-23 19:56:27",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:36:26",
+        "END_TIME": "2021-04-24 03:56:26",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:05:29",
+        "END_TIME": "2021-04-23 23:25:29",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:06:16",
+        "END_TIME": "2021-04-24 04:26:16",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:23:02",
+        "END_TIME": "2021-04-23 03:43:02",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3D-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:02:08",
+        "END_TIME": "2021-04-23 14:22:08",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3D-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:44:16",
+        "END_TIME": "2021-04-24 01:04:16",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3D-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:32:38",
+        "END_TIME": "2021-04-24 01:52:38",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3D-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:32:23",
+        "END_TIME": "2021-04-24 09:52:23",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A96-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:44:43",
+        "END_TIME": "2021-04-23 13:04:43",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A96-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:35:16",
+        "END_TIME": "2021-04-24 09:55:16",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A96-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:08:57",
+        "END_TIME": "2021-04-24 01:28:57",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A96-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:25:24",
+        "END_TIME": "2021-04-23 04:45:24",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:03:32",
+        "END_TIME": "2021-04-24 00:23:32",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:11:17",
+        "END_TIME": "2021-04-24 02:31:17",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:14:05",
+        "END_TIME": "2021-04-24 00:34:05",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:21:37",
+        "END_TIME": "2021-04-24 09:41:37",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg1-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:27:24",
+        "END_TIME": "2021-04-24 00:47:24",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg1-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:39:21",
+        "END_TIME": "2021-04-24 00:59:21",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:48:17",
+        "END_TIME": "2021-04-23 03:08:17",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A31-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:47:37",
+        "END_TIME": "2021-04-24 01:07:37",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A26-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:18:15",
+        "END_TIME": "2021-04-23 20:38:15",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A26-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:30:07",
+        "END_TIME": "2021-04-24 02:50:07",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A26-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:19:22",
+        "END_TIME": "2021-04-23 06:39:22",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A26-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:56:41",
+        "END_TIME": "2021-04-24 06:16:41",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A62-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:13:27",
+        "END_TIME": "2021-04-24 11:33:27",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A62-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:11:50",
+        "END_TIME": "2021-04-24 04:31:50",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A62-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:45:17",
+        "END_TIME": "2021-04-23 20:05:17",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A62-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:48:14",
+        "END_TIME": "2021-04-24 06:08:14",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:16:14",
+        "END_TIME": "2021-04-23 23:36:14",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:41:41",
+        "END_TIME": "2021-04-23 13:01:41",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:38:56",
+        "END_TIME": "2021-04-23 23:58:56",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:33:26",
+        "END_TIME": "2021-04-23 03:53:26",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg1-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:51:09",
+        "END_TIME": "2021-04-24 08:11:09",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:07:27",
+        "END_TIME": "2021-04-23 06:27:27",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:23:22",
+        "END_TIME": "2021-04-23 08:43:22",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:28:25",
+        "END_TIME": "2021-04-24 10:48:25",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A58-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:41:48",
+        "END_TIME": "2021-04-23 11:01:48",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A58-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:24:26",
+        "END_TIME": "2021-04-23 15:44:26",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A58-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:59:24",
+        "END_TIME": "2021-04-23 12:19:24",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A58-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:49:06",
+        "END_TIME": "2021-04-23 09:09:06",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:15:19",
+        "END_TIME": "2021-04-23 09:35:19",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:13:57",
+        "END_TIME": "2021-04-24 05:33:57",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:13:56",
+        "END_TIME": "2021-04-23 14:33:56",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:19:04",
+        "END_TIME": "2021-04-23 20:39:04",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:19:11",
+        "END_TIME": "2021-04-24 08:39:11",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:08:57",
+        "END_TIME": "2021-04-23 22:28:57",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:00:34",
+        "END_TIME": "2021-04-23 21:20:34",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A27-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:46:31",
+        "END_TIME": "2021-04-23 17:06:31",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A94-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:50:25",
+        "END_TIME": "2021-04-23 23:10:25",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A94-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:47:54",
+        "END_TIME": "2021-04-23 12:07:54",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A94-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:38:24",
+        "END_TIME": "2021-04-23 12:58:24",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A94-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:08:05",
+        "END_TIME": "2021-04-23 23:28:05",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A24-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:29:04",
+        "END_TIME": "2021-04-24 03:49:04",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A24-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:45:46",
+        "END_TIME": "2021-04-23 19:05:46",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A24-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:46:49",
+        "END_TIME": "2021-04-23 23:06:49",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A24-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:16:37",
+        "END_TIME": "2021-04-24 06:36:37",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:34:19",
+        "END_TIME": "2021-04-23 16:54:19",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:46:32",
+        "END_TIME": "2021-04-23 22:06:32",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:13:59",
+        "END_TIME": "2021-04-23 10:33:59",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:28:58",
+        "END_TIME": "2021-04-24 07:48:58",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg1-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:30:49",
+        "END_TIME": "2021-04-24 11:50:49",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:15:50",
+        "END_TIME": "2021-04-23 01:35:50",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:42:23",
+        "END_TIME": "2021-04-23 21:02:23",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:41:25",
+        "END_TIME": "2021-04-23 10:01:25",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A11-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:25:34",
+        "END_TIME": "2021-04-24 04:45:34",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A11-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:00:42",
+        "END_TIME": "2021-04-23 22:20:42",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A11-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:19:20",
+        "END_TIME": "2021-04-23 19:39:20",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A11-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:54:03",
+        "END_TIME": "2021-04-24 02:14:03",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:11:22",
+        "END_TIME": "2021-04-24 02:31:22",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:29:39",
+        "END_TIME": "2021-04-24 05:49:39",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:47:43",
+        "END_TIME": "2021-04-23 07:07:43",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:47:55",
+        "END_TIME": "2021-04-24 04:07:55",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:12:03",
+        "END_TIME": "2021-04-23 16:32:03",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:12:22",
+        "END_TIME": "2021-04-23 17:32:22",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:34:12",
+        "END_TIME": "2021-04-23 08:54:12",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:59:29",
+        "END_TIME": "2021-04-24 02:19:29",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:32:46",
+        "END_TIME": "2021-04-24 10:52:46",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:40:46",
+        "END_TIME": "2021-04-24 09:00:46",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:06:56",
+        "END_TIME": "2021-04-24 03:26:56",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:54:19",
+        "END_TIME": "2021-04-24 04:14:19",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:44:28",
+        "END_TIME": "2021-04-23 12:04:28",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:22:17",
+        "END_TIME": "2021-04-23 22:42:17",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:02:02",
+        "END_TIME": "2021-04-23 00:22:02",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:23:41",
+        "END_TIME": "2021-04-24 11:43:41",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A77-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:28:15",
+        "END_TIME": "2021-04-23 01:48:15",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A77-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:24:20",
+        "END_TIME": "2021-04-23 01:44:20",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A77-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:31:42",
+        "END_TIME": "2021-04-24 00:51:42",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A77-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:35:54",
+        "END_TIME": "2021-04-23 19:55:54",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:54:02",
+        "END_TIME": "2021-04-23 08:14:02",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:56:32",
+        "END_TIME": "2021-04-24 07:16:32",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:57:20",
+        "END_TIME": "2021-04-24 01:17:20",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:55:30",
+        "END_TIME": "2021-04-23 22:15:30",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:47:54",
+        "END_TIME": "2021-04-24 12:07:54",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:57:47",
+        "END_TIME": "2021-04-24 12:17:47",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 13:48:35",
+        "END_TIME": "2021-04-23 14:08:35",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:28:31",
+        "END_TIME": "2021-04-23 01:48:31",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3D-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:19:55",
+        "END_TIME": "2021-04-23 04:39:55",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3D-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:18:15",
+        "END_TIME": "2021-04-24 09:38:15",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3D-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:20:51",
+        "END_TIME": "2021-04-23 09:40:51",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3D-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:03:28",
+        "END_TIME": "2021-04-23 11:23:28",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:35:50",
+        "END_TIME": "2021-04-23 06:55:50",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:06:58",
+        "END_TIME": "2021-04-24 05:26:58",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:15:44",
+        "END_TIME": "2021-04-24 06:35:44",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:57:03",
+        "END_TIME": "2021-04-23 03:17:03",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:29:19",
+        "END_TIME": "2021-04-23 22:49:19",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:29:07",
+        "END_TIME": "2021-04-23 19:49:07",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:38:17",
+        "END_TIME": "2021-04-23 00:58:17",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:31:59",
+        "END_TIME": "2021-04-23 12:51:59",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:41:26",
+        "END_TIME": "2021-04-23 09:01:26",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:14:03",
+        "END_TIME": "2021-04-23 16:34:03",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:45:47",
+        "END_TIME": "2021-04-23 08:05:47",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:32:37",
+        "END_TIME": "2021-04-24 07:52:37",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:08:44",
+        "END_TIME": "2021-04-23 07:28:44",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:40:36",
+        "END_TIME": "2021-04-23 19:00:36",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:39:54",
+        "END_TIME": "2021-04-24 04:59:54",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:42:35",
+        "END_TIME": "2021-04-23 05:02:35",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A10-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:38:57",
+        "END_TIME": "2021-04-23 15:58:57",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A10-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:14:20",
+        "END_TIME": "2021-04-24 06:34:20",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A10-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:52:37",
+        "END_TIME": "2021-04-23 21:12:37",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A10-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:56:33",
+        "END_TIME": "2021-04-24 11:16:33",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:39:19",
+        "END_TIME": "2021-04-24 10:59:19",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:16:57",
+        "END_TIME": "2021-04-23 21:36:57",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:17:39",
+        "END_TIME": "2021-04-24 06:37:39",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:58:18",
+        "END_TIME": "2021-04-23 11:18:18",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:27:38",
+        "END_TIME": "2021-04-23 21:47:38",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:38:17",
+        "END_TIME": "2021-04-23 03:58:17",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:14:59",
+        "END_TIME": "2021-04-23 09:34:59",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A85-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:15:26",
+        "END_TIME": "2021-04-23 12:35:26",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A24-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:36:15",
+        "END_TIME": "2021-04-23 14:56:15",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A24-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:31:54",
+        "END_TIME": "2021-04-23 07:51:54",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A24-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:01:08",
+        "END_TIME": "2021-04-23 04:21:08",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A24-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:20:50",
+        "END_TIME": "2021-04-23 02:40:50",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A21-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:56:29",
+        "END_TIME": "2021-04-24 06:16:29",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A21-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:56:39",
+        "END_TIME": "2021-04-23 11:16:39",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A21-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:12:47",
+        "END_TIME": "2021-04-24 00:32:47",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A21-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:15:35",
+        "END_TIME": "2021-04-23 14:35:35",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:19:30",
+        "END_TIME": "2021-04-24 04:39:30",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:02:37",
+        "END_TIME": "2021-04-23 02:22:37",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:19:23",
+        "END_TIME": "2021-04-23 19:39:23",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:09:03",
+        "END_TIME": "2021-04-23 14:29:03",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:42:24",
+        "END_TIME": "2021-04-24 03:02:24",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:50:51",
+        "END_TIME": "2021-04-24 03:10:51",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:16:19",
+        "END_TIME": "2021-04-23 18:36:19",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:32:02",
+        "END_TIME": "2021-04-24 01:52:02",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A47-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:11:02",
+        "END_TIME": "2021-04-24 11:31:02",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A47-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:16:45",
+        "END_TIME": "2021-04-23 22:36:45",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A47-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:38:35",
+        "END_TIME": "2021-04-24 01:58:35",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A47-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:43:32",
+        "END_TIME": "2021-04-24 06:03:32",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A45-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:24:23",
+        "END_TIME": "2021-04-23 09:44:23",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A45-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:32:51",
+        "END_TIME": "2021-04-23 20:52:51",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A45-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:18:05",
+        "END_TIME": "2021-04-24 08:38:05",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A45-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:30:03",
+        "END_TIME": "2021-04-23 03:50:03",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:03:29",
+        "END_TIME": "2021-04-23 10:23:29",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:26:44",
+        "END_TIME": "2021-04-23 11:46:44",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:00:59",
+        "END_TIME": "2021-04-24 05:20:59",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:39:00",
+        "END_TIME": "2021-04-23 18:59:00",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:09:01",
+        "END_TIME": "2021-04-23 12:29:01",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:45:37",
+        "END_TIME": "2021-04-23 10:05:37",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:37:58",
+        "END_TIME": "2021-04-23 14:57:58",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A23-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:51:58",
+        "END_TIME": "2021-04-24 00:11:58",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A62-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:02:10",
+        "END_TIME": "2021-04-24 11:22:10",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A62-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:45:20",
+        "END_TIME": "2021-04-24 12:05:20",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A62-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:29:08",
+        "END_TIME": "2021-04-23 09:49:08",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A62-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:53:50",
+        "END_TIME": "2021-04-23 04:13:50",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:26:29",
+        "END_TIME": "2021-04-23 21:46:29",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:26:57",
+        "END_TIME": "2021-04-23 15:46:57",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:47:21",
+        "END_TIME": "2021-04-23 11:07:21",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:04:06",
+        "END_TIME": "2021-04-23 03:24:06",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:50:08",
+        "END_TIME": "2021-04-23 06:10:08",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:10:55",
+        "END_TIME": "2021-04-24 05:30:55",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:24:06",
+        "END_TIME": "2021-04-23 21:44:06",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:50:19",
+        "END_TIME": "2021-04-23 22:10:19",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:22:58",
+        "END_TIME": "2021-04-23 01:42:58",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:00:08",
+        "END_TIME": "2021-04-23 10:20:08",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:59:16",
+        "END_TIME": "2021-04-24 10:19:16",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:09:36",
+        "END_TIME": "2021-04-23 19:29:36",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:40:43",
+        "END_TIME": "2021-04-23 16:00:43",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:23:34",
+        "END_TIME": "2021-04-23 02:43:34",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 13:34:42",
+        "END_TIME": "2021-04-23 13:54:42",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:19:49",
+        "END_TIME": "2021-04-23 19:39:49",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:31:44",
+        "END_TIME": "2021-04-23 11:51:44",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:39:10",
+        "END_TIME": "2021-04-24 03:59:10",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:24:11",
+        "END_TIME": "2021-04-23 02:44:11",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:49:39",
+        "END_TIME": "2021-04-23 02:09:39",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:17:42",
+        "END_TIME": "2021-04-23 12:37:42",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:36:11",
+        "END_TIME": "2021-04-24 02:56:11",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:36:41",
+        "END_TIME": "2021-04-23 10:56:41",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A36-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:26:10",
+        "END_TIME": "2021-04-23 12:46:10",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:33:45",
+        "END_TIME": "2021-04-23 02:53:45",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:45:58",
+        "END_TIME": "2021-04-23 10:05:58",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:26:50",
+        "END_TIME": "2021-04-24 06:46:50",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:37:00",
+        "END_TIME": "2021-04-24 03:57:00",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:34:42",
+        "END_TIME": "2021-04-23 01:54:42",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:11:43",
+        "END_TIME": "2021-04-23 17:31:43",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:10:31",
+        "END_TIME": "2021-04-24 10:30:31",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:58:42",
+        "END_TIME": "2021-04-24 06:18:42",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:34:26",
+        "END_TIME": "2021-04-24 08:54:26",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:19:41",
+        "END_TIME": "2021-04-23 17:39:41",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:23:04",
+        "END_TIME": "2021-04-24 04:43:04",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:12:53",
+        "END_TIME": "2021-04-23 00:32:53",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:57:39",
+        "END_TIME": "2021-04-24 09:17:39",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:26:56",
+        "END_TIME": "2021-04-23 01:46:56",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:33:38",
+        "END_TIME": "2021-04-24 01:53:38",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A50-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:03:12",
+        "END_TIME": "2021-04-23 22:23:12",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:37:49",
+        "END_TIME": "2021-04-23 22:57:49",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:49:25",
+        "END_TIME": "2021-04-24 03:09:25",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:41:35",
+        "END_TIME": "2021-04-23 06:01:35",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:10:46",
+        "END_TIME": "2021-04-23 22:30:46",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:59:08",
+        "END_TIME": "2021-04-23 11:19:08",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:33:49",
+        "END_TIME": "2021-04-23 06:53:49",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:06:28",
+        "END_TIME": "2021-04-23 14:26:28",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:36:34",
+        "END_TIME": "2021-04-24 11:56:34",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2B-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:01:33",
+        "END_TIME": "2021-04-24 07:21:33",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2B-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:47:03",
+        "END_TIME": "2021-04-24 11:07:03",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2B-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:33:53",
+        "END_TIME": "2021-04-23 12:53:53",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2B-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:07:57",
+        "END_TIME": "2021-04-23 07:27:57",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1B-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:32:43",
+        "END_TIME": "2021-04-23 23:52:43",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1B-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:14:50",
+        "END_TIME": "2021-04-24 06:34:50",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1B-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:03:19",
+        "END_TIME": "2021-04-23 19:23:19",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1B-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:06:27",
+        "END_TIME": "2021-04-24 01:26:27",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:13:41",
+        "END_TIME": "2021-04-23 21:33:41",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:35:14",
+        "END_TIME": "2021-04-23 18:55:14",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:05:21",
+        "END_TIME": "2021-04-23 01:25:21",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:23:15",
+        "END_TIME": "2021-04-23 04:43:15",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg1-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:37:55",
+        "END_TIME": "2021-04-24 10:57:55",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:24:06",
+        "END_TIME": "2021-04-23 09:44:06",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:15:32",
+        "END_TIME": "2021-04-23 15:35:32",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A05-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:25:08",
+        "END_TIME": "2021-04-23 17:45:08",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A08-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:15:16",
+        "END_TIME": "2021-04-23 10:35:16",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A08-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:25:27",
+        "END_TIME": "2021-04-23 16:45:27",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A08-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:54:18",
+        "END_TIME": "2021-04-24 03:14:18",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A08-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:15:09",
+        "END_TIME": "2021-04-24 00:35:09",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:47:53",
+        "END_TIME": "2021-04-23 20:07:53",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:53:11",
+        "END_TIME": "2021-04-24 00:13:11",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:40:51",
+        "END_TIME": "2021-04-24 01:00:51",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:11:02",
+        "END_TIME": "2021-04-24 05:31:02",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:03:38",
+        "END_TIME": "2021-04-24 09:23:38",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:30:46",
+        "END_TIME": "2021-04-23 00:50:46",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:22:06",
+        "END_TIME": "2021-04-24 05:42:06",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A00-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:06:14",
+        "END_TIME": "2021-04-24 02:26:14",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A86-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:15:03",
+        "END_TIME": "2021-04-24 08:35:03",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A86-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:45:27",
+        "END_TIME": "2021-04-24 02:05:27",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A86-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:48:29",
+        "END_TIME": "2021-04-23 06:08:29",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A86-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:26:28",
+        "END_TIME": "2021-04-23 23:46:28",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:06:30",
+        "END_TIME": "2021-04-23 00:26:30",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:55:11",
+        "END_TIME": "2021-04-23 18:15:11",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:38:00",
+        "END_TIME": "2021-04-24 08:58:00",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:08:48",
+        "END_TIME": "2021-04-23 22:28:48",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:30:44",
+        "END_TIME": "2021-04-23 01:50:44",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:36:43",
+        "END_TIME": "2021-04-23 23:56:43",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:59:52",
+        "END_TIME": "2021-04-23 19:19:52",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:26:09",
+        "END_TIME": "2021-04-24 03:46:09",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A26-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:44:14",
+        "END_TIME": "2021-04-23 19:04:14",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A26-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:19:36",
+        "END_TIME": "2021-04-24 01:39:36",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A26-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:48:12",
+        "END_TIME": "2021-04-24 09:08:12",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A26-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:50:02",
+        "END_TIME": "2021-04-23 16:10:02",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A47-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:05:56",
+        "END_TIME": "2021-04-24 06:25:56",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A47-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:16:17",
+        "END_TIME": "2021-04-24 07:36:17",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A47-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:09:26",
+        "END_TIME": "2021-04-24 11:29:26",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A47-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:10:46",
+        "END_TIME": "2021-04-23 21:30:46",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1A-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:08:00",
+        "END_TIME": "2021-04-23 14:28:00",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1A-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:01:40",
+        "END_TIME": "2021-04-24 00:21:40",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1A-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:06:54",
+        "END_TIME": "2021-04-23 08:26:54",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1A-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:54:08",
+        "END_TIME": "2021-04-24 01:14:08",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:30:45",
+        "END_TIME": "2021-04-24 09:50:45",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:22:30",
+        "END_TIME": "2021-04-24 00:42:30",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:17:42",
+        "END_TIME": "2021-04-23 07:37:42",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:23:28",
+        "END_TIME": "2021-04-23 04:43:28",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:57:43",
+        "END_TIME": "2021-04-23 12:17:43",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:31:14",
+        "END_TIME": "2021-04-23 22:51:14",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 13:32:25",
+        "END_TIME": "2021-04-23 13:52:25",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A59-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:38:47",
+        "END_TIME": "2021-04-23 07:58:47",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A83-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:26:35",
+        "END_TIME": "2021-04-23 03:46:35",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A83-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:07:15",
+        "END_TIME": "2021-04-23 23:27:15",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A83-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:58:00",
+        "END_TIME": "2021-04-23 06:18:00",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A83-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:29:31",
+        "END_TIME": "2021-04-24 03:49:31",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A35-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:39:35",
+        "END_TIME": "2021-04-23 07:59:35",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A35-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:43:44",
+        "END_TIME": "2021-04-23 03:03:44",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A35-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:16:08",
+        "END_TIME": "2021-04-24 05:36:08",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A35-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:41:05",
+        "END_TIME": "2021-04-23 19:01:05",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:02:58",
+        "END_TIME": "2021-04-24 04:22:58",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:09:14",
+        "END_TIME": "2021-04-24 04:29:14",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:40:53",
+        "END_TIME": "2021-04-24 02:00:53",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:07:12",
+        "END_TIME": "2021-04-24 04:27:12",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:05:43",
+        "END_TIME": "2021-04-23 04:25:43",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:29:12",
+        "END_TIME": "2021-04-24 11:49:12",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:33:10",
+        "END_TIME": "2021-04-23 23:53:10",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:41:15",
+        "END_TIME": "2021-04-24 11:01:15",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A82-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:45:08",
+        "END_TIME": "2021-04-23 11:05:08",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A82-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:15:42",
+        "END_TIME": "2021-04-24 10:35:42",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A82-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:31:08",
+        "END_TIME": "2021-04-23 22:51:08",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A82-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:01:39",
+        "END_TIME": "2021-04-23 06:21:39",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A25-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:05:30",
+        "END_TIME": "2021-04-24 10:25:30",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A25-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:09:23",
+        "END_TIME": "2021-04-23 00:29:23",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A25-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:34:04",
+        "END_TIME": "2021-04-23 06:54:04",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A25-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:28:23",
+        "END_TIME": "2021-04-23 21:48:23",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A15-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:57:24",
+        "END_TIME": "2021-04-23 04:17:24",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A15-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:40:54",
+        "END_TIME": "2021-04-24 06:00:54",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A15-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:17:35",
+        "END_TIME": "2021-04-23 06:37:35",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A15-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:45:57",
+        "END_TIME": "2021-04-24 06:05:57",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:40:58",
+        "END_TIME": "2021-04-23 03:00:58",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:40:26",
+        "END_TIME": "2021-04-23 11:00:26",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:55:05",
+        "END_TIME": "2021-04-23 06:15:05",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:30:05",
+        "END_TIME": "2021-04-24 01:50:05",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:07:05",
+        "END_TIME": "2021-04-23 03:27:05",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:06:19",
+        "END_TIME": "2021-04-23 02:26:19",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:46:04",
+        "END_TIME": "2021-04-24 00:06:04",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:52:19",
+        "END_TIME": "2021-04-23 03:12:19",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A25-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:39:18",
+        "END_TIME": "2021-04-23 04:59:18",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A25-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:08:23",
+        "END_TIME": "2021-04-24 02:28:23",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A25-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:09:12",
+        "END_TIME": "2021-04-23 02:29:12",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A25-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:53:41",
+        "END_TIME": "2021-04-23 15:13:41",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A11-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:47:45",
+        "END_TIME": "2021-04-24 11:07:45",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A11-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:09:04",
+        "END_TIME": "2021-04-23 22:29:04",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A11-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:50:47",
+        "END_TIME": "2021-04-24 01:10:47",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A11-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:54:03",
+        "END_TIME": "2021-04-24 00:14:03",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A21-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:42:38",
+        "END_TIME": "2021-04-23 20:02:38",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A21-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:35:23",
+        "END_TIME": "2021-04-24 00:55:23",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A21-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:13:29",
+        "END_TIME": "2021-04-23 06:33:29",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A21-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:45:24",
+        "END_TIME": "2021-04-23 10:05:24",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A8A-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:24:49",
+        "END_TIME": "2021-04-23 18:44:49",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A8A-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:55:04",
+        "END_TIME": "2021-04-23 03:15:04",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A8A-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:46:16",
+        "END_TIME": "2021-04-23 10:06:16",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A8A-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:57:19",
+        "END_TIME": "2021-04-24 08:17:19",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A77-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:57:53",
+        "END_TIME": "2021-04-24 10:17:53",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A77-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:56:46",
+        "END_TIME": "2021-04-23 08:16:46",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A77-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:41:57",
+        "END_TIME": "2021-04-23 02:01:57",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A77-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:26:58",
+        "END_TIME": "2021-04-24 05:46:58",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:28:55",
+        "END_TIME": "2021-04-23 21:48:55",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:15:10",
+        "END_TIME": "2021-04-23 02:35:10",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:15:11",
+        "END_TIME": "2021-04-23 17:35:11",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:25:47",
+        "END_TIME": "2021-04-24 08:45:47",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:45:38",
+        "END_TIME": "2021-04-23 16:05:38",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:24:40",
+        "END_TIME": "2021-04-23 21:44:40",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:59:51",
+        "END_TIME": "2021-04-23 09:19:51",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:55:00",
+        "END_TIME": "2021-04-23 18:15:00",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A53-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:44:48",
+        "END_TIME": "2021-04-23 13:04:48",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A53-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:10:19",
+        "END_TIME": "2021-04-24 02:30:19",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A53-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:04:57",
+        "END_TIME": "2021-04-23 23:24:57",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A53-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:40:28",
+        "END_TIME": "2021-04-23 16:00:28",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:56:47",
+        "END_TIME": "2021-04-23 10:16:47",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:07:57",
+        "END_TIME": "2021-04-24 02:27:57",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:55:07",
+        "END_TIME": "2021-04-23 10:15:07",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:05:55",
+        "END_TIME": "2021-04-23 03:25:55",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg1-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:03:47",
+        "END_TIME": "2021-04-24 07:23:47",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg1-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:41:54",
+        "END_TIME": "2021-04-24 05:01:54",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:52:41",
+        "END_TIME": "2021-04-23 20:12:41",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A88-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:19:56",
+        "END_TIME": "2021-04-23 18:39:56",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A13-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:54:24",
+        "END_TIME": "2021-04-23 04:14:24",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A13-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:46:08",
+        "END_TIME": "2021-04-24 09:06:08",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A13-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:23:36",
+        "END_TIME": "2021-04-23 11:43:36",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A13-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:25:40",
+        "END_TIME": "2021-04-23 00:45:40",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1B-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:26:51",
+        "END_TIME": "2021-04-23 14:46:51",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1B-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:08:48",
+        "END_TIME": "2021-04-23 08:28:48",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1B-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:53:37",
+        "END_TIME": "2021-04-24 07:13:37",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1B-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:08:59",
+        "END_TIME": "2021-04-23 02:28:59",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:09:11",
+        "END_TIME": "2021-04-23 10:29:11",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:25:19",
+        "END_TIME": "2021-04-23 19:45:19",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:16:47",
+        "END_TIME": "2021-04-23 19:36:47",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:42:15",
+        "END_TIME": "2021-04-24 05:02:15",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:11:14",
+        "END_TIME": "2021-04-23 20:31:14",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:54:40",
+        "END_TIME": "2021-04-24 09:14:40",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:19:52",
+        "END_TIME": "2021-04-24 00:39:52",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:34:09",
+        "END_TIME": "2021-04-24 11:54:09",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A66-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:23:25",
+        "END_TIME": "2021-04-24 11:43:25",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A66-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:34:37",
+        "END_TIME": "2021-04-24 08:54:37",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A66-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:55:38",
+        "END_TIME": "2021-04-23 16:15:38",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A66-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:48:26",
+        "END_TIME": "2021-04-23 03:08:26",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A53-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:29:48",
+        "END_TIME": "2021-04-24 05:49:48",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A53-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:04:09",
+        "END_TIME": "2021-04-23 11:24:09",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A53-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:34:26",
+        "END_TIME": "2021-04-23 11:54:26",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A53-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:15:07",
+        "END_TIME": "2021-04-24 11:35:07",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A64-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:47:16",
+        "END_TIME": "2021-04-23 07:07:16",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A64-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:50:03",
+        "END_TIME": "2021-04-24 02:10:03",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A64-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:44:28",
+        "END_TIME": "2021-04-23 13:04:28",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A64-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:50:59",
+        "END_TIME": "2021-04-24 02:10:59",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:52:57",
+        "END_TIME": "2021-04-23 21:12:57",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:47:05",
+        "END_TIME": "2021-04-23 09:07:05",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:37:20",
+        "END_TIME": "2021-04-24 08:57:20",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:26:03",
+        "END_TIME": "2021-04-23 12:46:03",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:09:03",
+        "END_TIME": "2021-04-23 12:29:03",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:07:41",
+        "END_TIME": "2021-04-23 05:27:41",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:31:44",
+        "END_TIME": "2021-04-23 06:51:44",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:30:53",
+        "END_TIME": "2021-04-23 01:50:53",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:07:47",
+        "END_TIME": "2021-04-23 20:27:47",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:33:20",
+        "END_TIME": "2021-04-23 15:53:20",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:09:21",
+        "END_TIME": "2021-04-23 16:29:21",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:27:49",
+        "END_TIME": "2021-04-24 01:47:49",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:23:19",
+        "END_TIME": "2021-04-23 06:43:19",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:15:13",
+        "END_TIME": "2021-04-23 16:35:13",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:10:31",
+        "END_TIME": "2021-04-24 09:30:31",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A84-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:57:01",
+        "END_TIME": "2021-04-23 08:17:01",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A91-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:35:30",
+        "END_TIME": "2021-04-23 02:55:30",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A91-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:41:23",
+        "END_TIME": "2021-04-24 11:01:23",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A91-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:56:26",
+        "END_TIME": "2021-04-24 01:16:26",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A91-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:16:33",
+        "END_TIME": "2021-04-23 03:36:33",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A71-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:30:12",
+        "END_TIME": "2021-04-23 04:50:12",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A71-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:36:01",
+        "END_TIME": "2021-04-24 11:56:01",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A71-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:52:19",
+        "END_TIME": "2021-04-23 02:12:19",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A71-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:05:34",
+        "END_TIME": "2021-04-23 12:25:34",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A93-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:06:39",
+        "END_TIME": "2021-04-24 06:26:39",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A93-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:37:33",
+        "END_TIME": "2021-04-23 18:57:33",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A93-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 13:26:54",
+        "END_TIME": "2021-04-23 13:46:54",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A93-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:04:48",
+        "END_TIME": "2021-04-24 02:24:48",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A07-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:12:32",
+        "END_TIME": "2021-04-23 17:32:32",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A07-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:23:55",
+        "END_TIME": "2021-04-24 02:43:55",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A07-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:37:12",
+        "END_TIME": "2021-04-23 15:57:12",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A07-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:07:43",
+        "END_TIME": "2021-04-23 15:27:43",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A63-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:33:23",
+        "END_TIME": "2021-04-23 11:53:23",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A63-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:42:37",
+        "END_TIME": "2021-04-23 16:02:37",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A63-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:23:14",
+        "END_TIME": "2021-04-23 03:43:14",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A63-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:25:39",
+        "END_TIME": "2021-04-24 01:45:39",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:54:20",
+        "END_TIME": "2021-04-23 11:14:20",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:05:38",
+        "END_TIME": "2021-04-24 09:25:38",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:03:41",
+        "END_TIME": "2021-04-24 09:23:41",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:57:46",
+        "END_TIME": "2021-04-23 01:17:46",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:44:01",
+        "END_TIME": "2021-04-24 01:04:01",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:09:11",
+        "END_TIME": "2021-04-23 23:29:11",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:12:45",
+        "END_TIME": "2021-04-24 01:32:45",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A02-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:44:51",
+        "END_TIME": "2021-04-24 08:04:51",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:12:03",
+        "END_TIME": "2021-04-24 09:32:03",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:10:27",
+        "END_TIME": "2021-04-24 01:30:27",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:12:37",
+        "END_TIME": "2021-04-23 05:32:37",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:00:30",
+        "END_TIME": "2021-04-23 02:20:30",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:15:45",
+        "END_TIME": "2021-04-23 18:35:45",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:21:28",
+        "END_TIME": "2021-04-23 04:41:28",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:30:32",
+        "END_TIME": "2021-04-24 06:50:32",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:59:36",
+        "END_TIME": "2021-04-23 08:19:36",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:36:25",
+        "END_TIME": "2021-04-23 20:56:25",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:49:18",
+        "END_TIME": "2021-04-24 06:09:18",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:01:02",
+        "END_TIME": "2021-04-24 08:21:02",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:03:17",
+        "END_TIME": "2021-04-24 04:23:17",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:45:49",
+        "END_TIME": "2021-04-23 05:05:49",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:05:11",
+        "END_TIME": "2021-04-23 04:25:11",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:17:58",
+        "END_TIME": "2021-04-23 12:37:58",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A61-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:30:59",
+        "END_TIME": "2021-04-23 16:50:59",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A90-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:37:31",
+        "END_TIME": "2021-04-23 03:57:31",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A90-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:04:27",
+        "END_TIME": "2021-04-24 04:24:27",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A90-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:11:27",
+        "END_TIME": "2021-04-24 07:31:27",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A90-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:30:40",
+        "END_TIME": "2021-04-23 06:50:40",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A98-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:19:55",
+        "END_TIME": "2021-04-23 17:39:55",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A98-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:56:39",
+        "END_TIME": "2021-04-23 15:16:39",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A98-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:25:58",
+        "END_TIME": "2021-04-23 16:45:58",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A98-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:16:38",
+        "END_TIME": "2021-04-23 14:36:38",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A64-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:01:16",
+        "END_TIME": "2021-04-23 08:21:16",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A64-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:07:46",
+        "END_TIME": "2021-04-23 08:27:46",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A64-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:21:16",
+        "END_TIME": "2021-04-23 18:41:16",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A64-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:01:11",
+        "END_TIME": "2021-04-24 00:21:11",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A86-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:55:09",
+        "END_TIME": "2021-04-24 05:15:09",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A86-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:46:32",
+        "END_TIME": "2021-04-23 11:06:32",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A86-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:09:45",
+        "END_TIME": "2021-04-24 07:29:45",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A86-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:36:43",
+        "END_TIME": "2021-04-23 02:56:43",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:51:34",
+        "END_TIME": "2021-04-23 12:11:34",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:47:43",
+        "END_TIME": "2021-04-24 03:07:43",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:52:45",
+        "END_TIME": "2021-04-23 23:12:45",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:36:09",
+        "END_TIME": "2021-04-23 05:56:09",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:32:30",
+        "END_TIME": "2021-04-23 19:52:30",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:41:00",
+        "END_TIME": "2021-04-23 13:01:00",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:34:57",
+        "END_TIME": "2021-04-23 14:54:57",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2C-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:21:16",
+        "END_TIME": "2021-04-24 09:41:16",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "Z99-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:27:51",
+        "END_TIME": "2021-04-24 04:47:51",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "Z99-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:55:58",
+        "END_TIME": "2021-04-24 06:15:58",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "Z99-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:21:00",
+        "END_TIME": "2021-04-23 01:41:00",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "Z99-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:35:45",
+        "END_TIME": "2021-04-24 07:55:45",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:29:24",
+        "END_TIME": "2021-04-23 00:49:24",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:59:05",
+        "END_TIME": "2021-04-23 16:19:05",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 13:23:09",
+        "END_TIME": "2021-04-23 13:43:09",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 13:47:11",
+        "END_TIME": "2021-04-23 14:07:11",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:49:00",
+        "END_TIME": "2021-04-23 07:09:00",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:41:39",
+        "END_TIME": "2021-04-23 13:01:39",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:59:39",
+        "END_TIME": "2021-04-23 07:19:39",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A89-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:07:19",
+        "END_TIME": "2021-04-23 07:27:19",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "Z99-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:55:56",
+        "END_TIME": "2021-04-23 17:15:56",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "Z99-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:59:01",
+        "END_TIME": "2021-04-23 06:19:01",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "Z99-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:32:55",
+        "END_TIME": "2021-04-24 04:52:55",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "Z99-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:38:14",
+        "END_TIME": "2021-04-24 03:58:14",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:44:30",
+        "END_TIME": "2021-04-23 22:04:30",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:13:01",
+        "END_TIME": "2021-04-24 00:33:01",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:36:41",
+        "END_TIME": "2021-04-23 22:56:41",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:12:48",
+        "END_TIME": "2021-04-24 08:32:48",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:13:36",
+        "END_TIME": "2021-04-23 19:33:36",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:46:41",
+        "END_TIME": "2021-04-23 06:06:41",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:03:55",
+        "END_TIME": "2021-04-24 05:23:55",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:26:10",
+        "END_TIME": "2021-04-23 18:46:10",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A8A-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:24:15",
+        "END_TIME": "2021-04-23 06:44:15",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A8A-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:59:54",
+        "END_TIME": "2021-04-23 19:19:54",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A8A-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:29:31",
+        "END_TIME": "2021-04-23 02:49:31",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A8A-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:28:04",
+        "END_TIME": "2021-04-23 05:48:04",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A93-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:48:11",
+        "END_TIME": "2021-04-23 10:08:11",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A93-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:31:12",
+        "END_TIME": "2021-04-23 20:51:12",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A93-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:53:32",
+        "END_TIME": "2021-04-23 03:13:32",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A93-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:19:18",
+        "END_TIME": "2021-04-23 23:39:18",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A91-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:20:13",
+        "END_TIME": "2021-04-24 01:40:13",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A91-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:43:23",
+        "END_TIME": "2021-04-23 22:03:23",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A91-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:53:47",
+        "END_TIME": "2021-04-23 19:13:47",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A91-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:36:35",
+        "END_TIME": "2021-04-23 15:56:35",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:31:56",
+        "END_TIME": "2021-04-23 12:51:56",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:35:24",
+        "END_TIME": "2021-04-23 06:55:24",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:42:15",
+        "END_TIME": "2021-04-23 03:02:15",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:42:00",
+        "END_TIME": "2021-04-23 16:02:00",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:07:40",
+        "END_TIME": "2021-04-23 08:27:40",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg1-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:41:16",
+        "END_TIME": "2021-04-24 02:01:16",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:29:13",
+        "END_TIME": "2021-04-24 07:49:13",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:11:28",
+        "END_TIME": "2021-04-24 07:31:28",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A83-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:43:04",
+        "END_TIME": "2021-04-23 20:03:04",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A83-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:36:38",
+        "END_TIME": "2021-04-23 01:56:38",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A83-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:24:03",
+        "END_TIME": "2021-04-23 15:44:03",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A83-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:42:36",
+        "END_TIME": "2021-04-24 02:02:36",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:48:44",
+        "END_TIME": "2021-04-24 08:08:44",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:04:55",
+        "END_TIME": "2021-04-24 07:24:55",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:37:22",
+        "END_TIME": "2021-04-23 02:57:22",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:57:45",
+        "END_TIME": "2021-04-23 01:17:45",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:49:51",
+        "END_TIME": "2021-04-23 17:09:51",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:09:37",
+        "END_TIME": "2021-04-23 01:29:37",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:03:10",
+        "END_TIME": "2021-04-23 00:23:10",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A04-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:24:18",
+        "END_TIME": "2021-04-23 08:44:18",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:52:06",
+        "END_TIME": "2021-04-24 09:12:06",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:32:11",
+        "END_TIME": "2021-04-23 05:52:11",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:27:24",
+        "END_TIME": "2021-04-24 00:47:24",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:33:13",
+        "END_TIME": "2021-04-24 06:53:13",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:18:56",
+        "END_TIME": "2021-04-23 00:38:56",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:35:38",
+        "END_TIME": "2021-04-23 15:55:38",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:49:01",
+        "END_TIME": "2021-04-23 15:09:01",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A76-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:03:28",
+        "END_TIME": "2021-04-24 00:23:28",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A08-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:06:48",
+        "END_TIME": "2021-04-23 23:26:48",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A08-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:10:03",
+        "END_TIME": "2021-04-24 07:30:03",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A08-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:47:40",
+        "END_TIME": "2021-04-24 01:07:40",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A08-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:15:58",
+        "END_TIME": "2021-04-23 12:35:58",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:43:11",
+        "END_TIME": "2021-04-24 08:03:11",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:22:47",
+        "END_TIME": "2021-04-23 00:42:47",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:13:32",
+        "END_TIME": "2021-04-23 06:33:32",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:47:34",
+        "END_TIME": "2021-04-23 03:07:34",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:45:32",
+        "END_TIME": "2021-04-24 00:05:32",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:55:42",
+        "END_TIME": "2021-04-23 08:15:42",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:13:06",
+        "END_TIME": "2021-04-23 10:33:06",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2A-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:40:12",
+        "END_TIME": "2021-04-23 12:00:12",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A63-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:37:41",
+        "END_TIME": "2021-04-23 12:57:41",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A63-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:33:41",
+        "END_TIME": "2021-04-24 07:53:41",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A63-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:09:21",
+        "END_TIME": "2021-04-23 21:29:21",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A63-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:55:32",
+        "END_TIME": "2021-04-24 05:15:32",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 15:32:06",
+        "END_TIME": "2021-04-23 15:52:06",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:43:44",
+        "END_TIME": "2021-04-23 07:03:44",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:28:02",
+        "END_TIME": "2021-04-24 05:48:02",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:14:03",
+        "END_TIME": "2021-04-24 03:34:03",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:27:06",
+        "END_TIME": "2021-04-23 12:47:06",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:12:15",
+        "END_TIME": "2021-04-23 07:32:15",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:49:31",
+        "END_TIME": "2021-04-24 04:09:31",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A43-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:22:32",
+        "END_TIME": "2021-04-24 10:42:32",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A94-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:08:53",
+        "END_TIME": "2021-04-24 09:28:53",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A94-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:54:48",
+        "END_TIME": "2021-04-24 10:14:48",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A94-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:49:37",
+        "END_TIME": "2021-04-23 08:09:37",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A94-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:40:08",
+        "END_TIME": "2021-04-23 13:00:08",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A32-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:54:53",
+        "END_TIME": "2021-04-23 06:14:53",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A32-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:12:14",
+        "END_TIME": "2021-04-24 08:32:14",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A32-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:11:27",
+        "END_TIME": "2021-04-24 08:31:27",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A32-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:24:34",
+        "END_TIME": "2021-04-24 05:44:34",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:03:47",
+        "END_TIME": "2021-04-23 17:23:47",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 19:05:33",
+        "END_TIME": "2021-04-23 19:25:33",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:35:27",
+        "END_TIME": "2021-04-24 10:55:27",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:20:04",
+        "END_TIME": "2021-04-24 01:40:04",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:44:26",
+        "END_TIME": "2021-04-23 19:04:26",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg1-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:38:25",
+        "END_TIME": "2021-04-24 11:58:25",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:02:09",
+        "END_TIME": "2021-04-23 09:22:09",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A87-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:22:09",
+        "END_TIME": "2021-04-23 18:42:09",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:40:58",
+        "END_TIME": "2021-04-23 06:00:58",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:29:09",
+        "END_TIME": "2021-04-23 07:49:09",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:53:39",
+        "END_TIME": "2021-04-23 06:13:39",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:16:56",
+        "END_TIME": "2021-04-23 01:36:56",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:38:41",
+        "END_TIME": "2021-04-23 04:58:41",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:35:39",
+        "END_TIME": "2021-04-23 17:55:39",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:28:17",
+        "END_TIME": "2021-04-23 09:48:17",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:36:59",
+        "END_TIME": "2021-04-23 21:56:59",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:44:01",
+        "END_TIME": "2021-04-23 08:04:01",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:02:52",
+        "END_TIME": "2021-04-23 00:22:52",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:54:01",
+        "END_TIME": "2021-04-23 19:14:01",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:08:05",
+        "END_TIME": "2021-04-23 07:28:05",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg1-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:36:29",
+        "END_TIME": "2021-04-24 09:56:29",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:42:36",
+        "END_TIME": "2021-04-23 22:02:36",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:59:32",
+        "END_TIME": "2021-04-23 07:19:32",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A80-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:20:49",
+        "END_TIME": "2021-04-23 07:40:49",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2B-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:56:35",
+        "END_TIME": "2021-04-24 06:16:35",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2B-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:40:32",
+        "END_TIME": "2021-04-24 10:00:32",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2B-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:16:12",
+        "END_TIME": "2021-04-23 18:36:12",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A2B-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:59:11",
+        "END_TIME": "2021-04-23 01:19:11",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A10-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:57:22",
+        "END_TIME": "2021-04-24 08:17:22",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A10-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:38:11",
+        "END_TIME": "2021-04-23 01:58:11",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A10-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:25:46",
+        "END_TIME": "2021-04-24 04:45:46",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A10-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:06:17",
+        "END_TIME": "2021-04-24 08:26:17",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A90-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:48:34",
+        "END_TIME": "2021-04-24 01:08:34",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A90-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:10:28",
+        "END_TIME": "2021-04-23 04:30:28",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A90-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:15:29",
+        "END_TIME": "2021-04-24 07:35:29",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A90-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:29:13",
+        "END_TIME": "2021-04-23 06:49:13",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A35-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:19:34",
+        "END_TIME": "2021-04-24 00:39:34",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A35-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:25:40",
+        "END_TIME": "2021-04-23 20:45:40",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A35-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:42:47",
+        "END_TIME": "2021-04-23 18:02:47",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A35-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:19:11",
+        "END_TIME": "2021-04-23 08:39:11",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A66-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:38:02",
+        "END_TIME": "2021-04-23 18:58:02",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A66-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:30:47",
+        "END_TIME": "2021-04-24 10:50:47",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A66-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:08:24",
+        "END_TIME": "2021-04-23 10:28:24",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A66-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:30:27",
+        "END_TIME": "2021-04-24 06:50:27",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 18:50:22",
+        "END_TIME": "2021-04-23 19:10:22",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 11:27:43",
+        "END_TIME": "2021-04-23 11:47:43",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:11:59",
+        "END_TIME": "2021-04-24 00:31:59",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:59:00",
+        "END_TIME": "2021-04-23 17:19:00",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:11:36",
+        "END_TIME": "2021-04-23 07:31:36",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 20:48:47",
+        "END_TIME": "2021-04-23 21:08:47",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 02:41:32",
+        "END_TIME": "2021-04-24 03:01:32",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A74-mcg2-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:23:00",
+        "END_TIME": "2021-04-24 09:43:00",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A58-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:23:06",
+        "END_TIME": "2021-04-23 22:43:06",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A58-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:12:01",
+        "END_TIME": "2021-04-24 01:32:01",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A58-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:43:04",
+        "END_TIME": "2021-04-23 07:03:04",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A58-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:00:09",
+        "END_TIME": "2021-04-24 08:20:09",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A71-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:17:31",
+        "END_TIME": "2021-04-23 22:37:31",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A71-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 10:19:13",
+        "END_TIME": "2021-04-24 10:39:13",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A71-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:15:59",
+        "END_TIME": "2021-04-24 09:35:59",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A71-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:05:22",
+        "END_TIME": "2021-04-23 10:25:22",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 02:00:16",
+        "END_TIME": "2021-04-23 02:20:16",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:53:54",
+        "END_TIME": "2021-04-23 18:13:54",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:15:51",
+        "END_TIME": "2021-04-24 04:35:51",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:15:35",
+        "END_TIME": "2021-04-23 12:35:35",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg1-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:00:32",
+        "END_TIME": "2021-04-24 07:20:32",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:50:22",
+        "END_TIME": "2021-04-23 15:10:22",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg1-mc4",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:59:03",
+        "END_TIME": "2021-04-24 10:19:03",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A29-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:00:22",
+        "END_TIME": "2021-04-23 10:20:22",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A70-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 04:05:50",
+        "END_TIME": "2021-04-24 04:25:50",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A70-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 01:22:47",
+        "END_TIME": "2021-04-24 01:42:47",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A70-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:35:02",
+        "END_TIME": "2021-04-23 10:55:02",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A70-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:34:29",
+        "END_TIME": "2021-04-23 08:54:29",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 13:56:33",
+        "END_TIME": "2021-04-23 14:16:33",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 13:43:07",
+        "END_TIME": "2021-04-23 14:03:07",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 06:42:10",
+        "END_TIME": "2021-04-23 07:02:10",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:26:14",
+        "END_TIME": "2021-04-24 07:46:14",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:32:58",
+        "END_TIME": "2021-04-23 04:52:58",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:38:41",
+        "END_TIME": "2021-04-23 14:58:41",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:18:53",
+        "END_TIME": "2021-04-23 01:38:53",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A3B-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:40:11",
+        "END_TIME": "2021-04-23 23:00:11",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:58:08",
+        "END_TIME": "2021-04-24 12:18:08",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:06:16",
+        "END_TIME": "2021-04-23 10:26:16",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:33:35",
+        "END_TIME": "2021-04-24 08:53:35",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 01:04:23",
+        "END_TIME": "2021-04-23 01:24:23",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:01:40",
+        "END_TIME": "2021-04-23 04:21:40",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg1-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:08:39",
+        "END_TIME": "2021-04-23 00:28:39",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:24:13",
+        "END_TIME": "2021-04-23 10:44:13",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A51-mcg1-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 21:06:24",
+        "END_TIME": "2021-04-23 21:26:24",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A70-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 00:50:08",
+        "END_TIME": "2021-04-24 01:10:08",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A70-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:31:49",
+        "END_TIME": "2021-04-23 17:51:49",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A70-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 06:35:58",
+        "END_TIME": "2021-04-24 06:55:58",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A70-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 23:27:49",
+        "END_TIME": "2021-04-23 23:47:49",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A32-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:02:57",
+        "END_TIME": "2021-04-24 08:22:57",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A32-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:26:42",
+        "END_TIME": "2021-04-23 04:46:42",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A32-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:27:46",
+        "END_TIME": "2021-04-23 17:47:46",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A32-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:15:40",
+        "END_TIME": "2021-04-23 10:35:40",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A20-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 13:18:06",
+        "END_TIME": "2021-04-23 13:38:06",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A20-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:53:51",
+        "END_TIME": "2021-04-24 06:13:51",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A20-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:05:32",
+        "END_TIME": "2021-04-23 22:25:32",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A20-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 07:15:26",
+        "END_TIME": "2021-04-23 07:35:26",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A17-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 04:42:57",
+        "END_TIME": "2021-04-23 05:02:57",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A17-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:34:03",
+        "END_TIME": "2021-04-23 10:54:03",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A17-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 12:50:25",
+        "END_TIME": "2021-04-23 13:10:25",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A17-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 05:51:00",
+        "END_TIME": "2021-04-23 06:11:00",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1A-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:11:07",
+        "END_TIME": "2021-04-24 11:31:07",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1A-mcg1-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 08:19:12",
+        "END_TIME": "2021-04-24 08:39:12",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1A-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 08:38:28",
+        "END_TIME": "2021-04-23 08:58:28",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A1A-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:04:29",
+        "END_TIME": "2021-04-23 17:24:29",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A07-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:49:21",
+        "END_TIME": "2021-04-23 23:09:21",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A07-mcg1-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:25:05",
+        "END_TIME": "2021-04-23 17:45:05",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A07-mcg1-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 11:35:46",
+        "END_TIME": "2021-04-24 11:55:46",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A07-mcg1-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 17:16:14",
+        "END_TIME": "2021-04-23 17:36:14",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A96-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 16:35:31",
+        "END_TIME": "2021-04-23 16:55:31",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A96-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 09:11:29",
+        "END_TIME": "2021-04-23 09:31:29",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A96-mcg2-mc2",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 00:52:42",
+        "END_TIME": "2021-04-23 01:12:42",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A96-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 05:53:20",
+        "END_TIME": "2021-04-24 06:13:20",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg2-mc1",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 14:01:07",
+        "END_TIME": "2021-04-23 14:21:07",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg2-mc1",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:21:19",
+        "END_TIME": "2021-04-24 03:41:19",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 07:33:33",
+        "END_TIME": "2021-04-24 07:53:33",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg2-mc2",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 03:16:34",
+        "END_TIME": "2021-04-24 03:36:34",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg2-mc3",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 22:28:10",
+        "END_TIME": "2021-04-23 22:48:10",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg2-mc3",
+        "DOWN_DATE": "2021-04-24",
+        "START_TIME": "2021-04-24 09:52:21",
+        "END_TIME": "2021-04-24 10:12:21",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 03:22:34",
+        "END_TIME": "2021-04-23 03:42:34",
+        "MTYPE": "PM",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    },
+    {
+        "MACHINE_ID": "A30-mcg2-mc4",
+        "DOWN_DATE": "2021-04-23",
+        "START_TIME": "2021-04-23 10:16:54",
+        "END_TIME": "2021-04-23 10:36:54",
+        "MTYPE": "error",
+        "SAFTY": 0,
+        "EFFICIENCY": 0
+    }
+]
