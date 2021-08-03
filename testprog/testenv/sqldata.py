@@ -119,3 +119,12 @@ def safeope():
   'AND D.MTYPE = \'holiday\' \n'+\
   'AND D.SAFTY = \'0\' \n'
   return sql
+
+def getschedul():
+  sql = 'SELECT A.*,B.MAX_WIP \n'+\
+  'FROM \n'+\
+  'APS_SCHEDULE A \n'+\
+  'INNER JOIN \n'+\
+  'A_OPELIMIT B \n'+\
+  'ON A.OPE_ID = B.OP_NO'
+  return sql
