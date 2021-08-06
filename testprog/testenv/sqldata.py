@@ -120,11 +120,21 @@ def safeope():
   'AND D.SAFTY = \'0\' \n'
   return sql
 
-def getschedul():
+def getschedule():
   sql = 'SELECT A.*,B.MAX_WIP \n'+\
   'FROM \n'+\
   'APS_SCHEDULE A \n'+\
   'INNER JOIN \n'+\
   'A_OPELIMIT B \n'+\
   'ON A.OPE_ID = B.OP_NO'
+  return sql
+
+def getfixturelimit():
+  sql = 'SELECT A.*,B.FIXTURE_QTY FROM APS_SCHEDULE A \n'+\
+  'INNER JOIN ( \n'+\
+  '  SELECT COUNT(*) FIXTURE_QTY,OPNO,OPLEVEL,PARTNO \n'+\
+  '  FROM A_FIXTURE \n'+\
+  '  GROUP BY OPNO,OPLEVEL,PARTNO \n'+\
+  ') B \n'+\
+  'ON A.OPE_ID = B.OPNO AND A.LAYER = B.OPLEVEL AND A.PRODUCT_ID = B.PARTNO \n'
   return sql
